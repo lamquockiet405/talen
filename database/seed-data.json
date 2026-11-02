@@ -1,0 +1,6572 @@
+{
+  "meta": {
+    "title": "Dấu ấn lịch sử",
+    "subtitle": "Các đời Tổng Bí thư Đảng Cộng sản Việt Nam",
+    "period": "1930–2026",
+    "importedFrom": "https://vrn202-g3.vercel.app/",
+    "referenceUpdated": "31/10/2026",
+    "importedAt": "2026-11-02",
+    "editorialNote": "Dữ liệu được nhập từ website tham khảo. Các liên kết nguồn được giữ để người đọc đối chiếu; bản này chưa kiểm chứng độc lập toàn bộ dữ kiện."
+  },
+  "eras": [
+    {
+      "id": "e1",
+      "label": "1930–1945",
+      "title": "Thành lập Đảng và vận động giải phóng dân tộc",
+      "events": [
+        {
+          "text": "Hội nghị thành lập Đảng Cộng sản Việt Nam do Nguyễn Ái Quốc chủ trì.",
+          "sources": [
+            "S03",
+            "S04"
+          ],
+          "date": "Đầu năm 1930"
+        },
+        {
+          "text": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương đổi tên Đảng thành Đảng Cộng sản Đông Dương.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": "10/1930"
+        },
+        {
+          "text": "Đại hội đại biểu lần thứ nhất của Đảng họp tại Ma Cao (Trung Quốc).",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": "3/1935"
+        },
+        {
+          "text": "Hội nghị Trung ương 8 họp tại Pác Bó; thành lập Việt Nam độc lập đồng minh Hội (Việt Minh).",
+          "sources": [
+            "S04",
+            "S03"
+          ],
+          "date": "5/1941"
+        },
+        {
+          "text": "Tổng khởi nghĩa giành chính quyền; ngày 2/9/1945 Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập.",
+          "sources": [
+            "S04"
+          ],
+          "date": "8–9/1945"
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "label": "1945–1954",
+      "title": "Kháng chiến chống thực dân Pháp",
+      "events": [
+        {
+          "text": "Chủ tịch Hồ Chí Minh ra Lời kêu gọi Toàn quốc kháng chiến.",
+          "sources": [
+            "S04"
+          ],
+          "date": "19/12/1946"
+        },
+        {
+          "text": "Chiến dịch Biên giới thắng lợi, mở ra bước phát triển mới cho cuộc kháng chiến.",
+          "sources": [
+            "S03"
+          ],
+          "date": "9–10/1950"
+        },
+        {
+          "text": "Đại hội II đưa Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": "2/1951"
+        },
+        {
+          "text": "Chiến thắng Điện Biên Phủ.",
+          "sources": [
+            "S04"
+          ],
+          "date": "7/5/1954"
+        },
+        {
+          "text": "Hiệp định Giơnevơ được ký kết; hòa bình được lập lại ở Đông Dương.",
+          "sources": [
+            "S03"
+          ],
+          "date": "21/7/1954"
+        }
+      ]
+    },
+    {
+      "id": "e3",
+      "label": "1954–1975",
+      "title": "Đất nước tạm thời chia cắt hai miền",
+      "events": [
+        {
+          "text": "Sau Hiệp định Giơnevơ, đất nước tạm thời bị chia cắt làm hai miền.",
+          "sources": [
+            "S03"
+          ],
+          "date": "1954"
+        },
+        {
+          "text": "Đại hội III đề ra đường lối chung cho cách mạng Việt Nam trong giai đoạn mới.",
+          "sources": [
+            "S03"
+          ],
+          "date": "9/1960"
+        },
+        {
+          "text": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời.",
+          "sources": [
+            "S03"
+          ],
+          "date": "20/12/1960"
+        },
+        {
+          "text": "Chủ tịch Hồ Chí Minh qua đời tại Hà Nội.",
+          "sources": [
+            "S04"
+          ],
+          "date": "2/9/1969"
+        },
+        {
+          "text": "Miền Nam được giải phóng hoàn toàn, đất nước thống nhất, kết thúc cuộc kháng chiến chống Mỹ, cứu nước.",
+          "sources": [
+            "S03"
+          ],
+          "date": "30/4/1975"
+        }
+      ]
+    },
+    {
+      "id": "e4",
+      "label": "1975–1986",
+      "title": "Cả nước thống nhất đi lên chủ nghĩa xã hội",
+      "events": [
+        {
+          "text": "Tổng tuyển cử bầu Quốc hội khóa VI được tiến hành trong cả nước.",
+          "sources": [
+            "S03"
+          ],
+          "date": "25/4/1976"
+        },
+        {
+          "text": "Kỳ họp thứ nhất Quốc hội khóa VI quyết định tên nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": "24/6–3/7/1976"
+        },
+        {
+          "text": "Đại hội IV đổi tên Đảng Lao động Việt Nam thành Đảng Cộng sản Việt Nam.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": "12/1976"
+        },
+        {
+          "text": "Đại hội V xác định hai nhiệm vụ chiến lược: xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc.",
+          "sources": [
+            "S03"
+          ],
+          "date": "3/1982"
+        }
+      ]
+    },
+    {
+      "id": "e5",
+      "label": "1986–2026",
+      "title": "Thời kỳ đổi mới",
+      "events": [
+        {
+          "text": "Đại hội VI đề ra đường lối đổi mới.",
+          "sources": [
+            "S03"
+          ],
+          "date": "12/1986"
+        },
+        {
+          "text": "Đại hội VII thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+          "sources": [
+            "S03"
+          ],
+          "date": "6/1991"
+        },
+        {
+          "text": "Việt Nam bình thường hóa quan hệ với Hoa Kỳ và gia nhập ASEAN.",
+          "sources": [
+            "S03"
+          ],
+          "date": "7/1995"
+        },
+        {
+          "text": "Việt Nam trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới.",
+          "sources": [
+            "S03"
+          ],
+          "date": "7/11/2006"
+        },
+        {
+          "text": "Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+          "sources": [
+            "S09",
+            "S11"
+          ],
+          "date": "1/2026"
+        }
+      ]
+    }
+  ],
+  "leaders": [
+    {
+      "slug": "tran-phu",
+      "name": "Trần Phú",
+      "initials": "TP",
+      "order": 1,
+      "summary": "Trần Phú · Tổng Bí thư.",
+      "fields": {
+        "birth": {
+          "text": "1/5/1904",
+          "sources": [
+            "S02",
+            "S05"
+          ]
+        },
+        "death": {
+          "text": "6/9/1931 — tại Nhà thương Chợ Quán, Sài Gòn",
+          "sources": [
+            "S02",
+            "S05"
+          ]
+        },
+        "hometown": {
+          "text": "xã Tùng Ảnh, huyện Đức Thọ, tỉnh Hà Tĩnh",
+          "sources": [
+            "S02"
+          ],
+          "difference": {
+            "kind": "variant",
+            "label": "Cách ghi khác",
+            "variants": [
+              {
+                "t": "Tỉnh Hà Tĩnh",
+                "s": [
+                  "S05"
+                ]
+              }
+            ]
+          }
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "education": {
+          "text": "Trường Quốc học Huế (1918–1922); Trường Đại học Phương Đông, Liên Xô (từ 1/1927)",
+          "sources": [
+            "S02",
+            "S05"
+          ]
+        }
+      },
+      "aliases": [
+        {
+          "text": "Licơvây — bí danh khi học tại Trường Đại học Phương Đông (Liên Xô)",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": ""
+        }
+      ],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "10/1930",
+          "end": "4/1931",
+          "startYear": 1930.75,
+          "endYear": 1931.29,
+          "congress": [
+            "Trước Đại hội I"
+          ],
+          "sources": [
+            "S01",
+            "S02",
+            "S05",
+            "S03",
+            "S07"
+          ],
+          "appointment": "Được bầu tại Hội nghị lần thứ nhất Ban Chấp hành Trung ương họp ở Hương Cảng (Trung Quốc)"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Học Trường Quốc học Huế.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "1918–1922"
+        },
+        {
+          "text": "Đỗ đầu kỳ thi Thành Chung; dạy học tại Trường Tiểu học Cao Xuân Dục (Vinh).",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "1922"
+        },
+        {
+          "text": "Tham gia Hội Phục Việt (sau là Tân Việt Cách mạng Đảng).",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "1925"
+        },
+        {
+          "text": "Dự lớp huấn luyện chính trị ở Quảng Châu; vào Hội Việt Nam Cách mạng Thanh niên.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "6/1926"
+        },
+        {
+          "text": "Sang Liên Xô học Trường Đại học Phương Đông.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "1/1927"
+        },
+        {
+          "text": "Về tới Sài Gòn; sau đó gặp Nguyễn Ái Quốc tại Hồng Kông.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "8/2/1930"
+        },
+        {
+          "text": "Được bổ sung vào Ban Chấp ủy lâm thời; được giao dự thảo Luận cương Chính trị.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "7/1930"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Hội nghị lần thứ nhất Ban Chấp hành Trung ương (Hương Cảng).",
+          "sources": [
+            "S02",
+            "S05",
+            "S03"
+          ],
+          "date": "10/1930"
+        },
+        {
+          "text": "Chủ trì Hội nghị Trung ương lần thứ 2 tại Sài Gòn.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "3/1931"
+        },
+        {
+          "text": "Bị bắt, giam tại Khám Lớn Sài Gòn.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "18/4/1931"
+        },
+        {
+          "text": "Mất tại Nhà thương Chợ Quán, Sài Gòn.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "6/9/1931"
+        },
+        {
+          "text": "Hài cốt được di dời về an táng tại quê hương.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "12/1/1999"
+        }
+      ],
+      "events": [
+        {
+          "text": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương đổi tên Đảng thành Đảng Cộng sản Đông Dương và bầu Ban Chấp hành Trung ương chính thức gồm 7 đồng chí.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": "14–31/10/1930"
+        },
+        {
+          "text": "Hội nghị Trung ương lần thứ 2 họp tại Sài Gòn bàn việc chấn chỉnh Đảng sau đợt khủng bố.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": "3/1931"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Ủy viên Ban Chấp ủy lâm thời (Ban Chấp hành Trung ương lâm thời), được bổ sung tháng 7/1930",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1929–1931",
+        "events": [
+          {
+            "text": "Thực dân Pháp tiến hành chương trình khai thác thuộc địa lần thứ hai; xã hội Việt Nam phân hóa sâu sắc, giai cấp công nhân phát triển cả về số lượng và chất lượng.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Thập niên 1920"
+          },
+          {
+            "text": "Từ Hội Việt Nam Cách mạng Thanh niên hình thành Đông Dương Cộng sản Đảng (17/6/1929) và An Nam Cộng sản Đảng (8/1929); từ Tân Việt Cách mạng Đảng hình thành Đông Dương Cộng sản Liên đoàn (9/1929).",
+            "sources": [
+              "S03"
+            ],
+            "date": "1929"
+          },
+          {
+            "text": "Quốc tế Cộng sản gửi thư yêu cầu ba tổ chức cộng sản chấm dứt chia rẽ, hợp nhất thành một đảng duy nhất.",
+            "sources": [
+              "S03"
+            ],
+            "date": "27/10/1929"
+          },
+          {
+            "text": "Việt Nam Quốc dân Đảng phát động khởi nghĩa Yên Bái nhưng thất bại.",
+            "sources": [
+              "S03"
+            ],
+            "date": "9/2/1930"
+          },
+          {
+            "text": "Đông Dương Cộng sản Liên đoàn gia nhập Đảng Cộng sản Việt Nam; ba tổ chức cộng sản thống nhất vào một đảng.",
+            "sources": [
+              "S03"
+            ],
+            "date": "24/2/1930"
+          },
+          {
+            "text": "Nhiều cuộc đấu tranh nổ ra: công nhân đồn điền cao su Phú Riềng (3/2/1930), công nhân Nhà máy sợi Nam Định (25/3–16/4/1930), nông dân Thanh Chương – Nghệ An (1/9/1930).",
+            "sources": [
+              "S03"
+            ],
+            "date": "1930"
+          }
+        ]
+      },
+      "eras": [
+        "e1"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S07"
+      ],
+      "documents": [
+        "D02"
+      ]
+    },
+    {
+      "slug": "le-hong-phong",
+      "name": "Lê Hồng Phong",
+      "initials": "LHP",
+      "order": 2,
+      "summary": "Lê Hồng Phong · Tổng Bí thư.",
+      "fields": {
+        "realName": {
+          "text": "Lê Huy Doãn",
+          "sources": [
+            "S02"
+          ]
+        },
+        "birth": {
+          "text": "1902 (nguồn ghi năm sinh, không ghi ngày tháng)",
+          "sources": [
+            "S02"
+          ]
+        },
+        "death": {
+          "text": "6/9/1942 — hy sinh tại nhà tù Côn Đảo",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Hưng Thông, huyện Hưng Nguyên, tỉnh Nghệ An",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "education": {
+          "text": "Trường Quân sự Hoàng Phố (tốt nghiệp 1926); Trường Lý luận quân sự (Lêningrát) và Trường Không quân số 2 (Liên Xô); Trường Đại học Lao động Cộng sản Phương Đông (từ 12/1928)",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [
+        {
+          "text": "Litvinốp — bí danh khi học tại Trường Đại học Lao động Cộng sản Phương Đông",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Vương Nhật Dân — tên khi về Trung Quốc hoạt động (cuối năm 1931)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "La Anh — tên khi về nước hoạt động (10/11/1937)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "3/1935",
+          "end": "7/1936",
+          "startYear": 1935.17,
+          "endYear": 1936.5,
+          "congress": [
+            "I"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S01"
+          ],
+          "appointment": "Được bầu tại Đại hội đại biểu lần thứ nhất của Đảng họp ở Ma Cao (Trung Quốc)",
+          "difference": {
+            "kind": "conflict",
+            "label": "Tháng kết thúc nhiệm kỳ",
+            "variants": [
+              {
+                "t": "7/1936",
+                "s": [
+                  "S02",
+                  "S03"
+                ]
+              },
+              {
+                "t": "10/1936",
+                "s": [
+                  "S01"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Cùng Phạm Hồng Thái sang Thái Lan, sau đó sang Trung Quốc.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/1924"
+        },
+        {
+          "text": "Gia nhập Đảng Cộng sản Trung Quốc.",
+          "sources": [
+            "S02"
+          ],
+          "date": "2/1926"
+        },
+        {
+          "text": "Tốt nghiệp Trường Quân sự Hoàng Phố.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1926"
+        },
+        {
+          "text": "Học Trường Lý luận quân sự (Lêningrát), sau đó Trường Không quân số 2 (Liên Xô).",
+          "sources": [
+            "S02"
+          ],
+          "date": "10/1926–11/1928"
+        },
+        {
+          "text": "Học Trường Đại học Lao động Cộng sản Phương Đông, bí danh Litvinốp.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1928"
+        },
+        {
+          "text": "Về Trung Quốc hoạt động với tên Vương Nhật Dân.",
+          "sources": [
+            "S02"
+          ],
+          "date": "Cuối năm 1931"
+        },
+        {
+          "text": "Làm Bí thư Ban Chỉ huy ở ngoài của Đảng, đặt tại Ma Cao.",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": "1934"
+        },
+        {
+          "text": "Triệu tập hội nghị bàn kế hoạch triệu tập Đại hội lần thứ nhất của Đảng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "14/6/1934"
+        },
+        {
+          "text": "Được Đại hội I bầu làm Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "3/1935"
+        },
+        {
+          "text": "Trưởng đoàn Đảng dự Đại hội VII Quốc tế Cộng sản; được bầu vào Ban Chấp hành Quốc tế Cộng sản.",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": "7/1935"
+        },
+        {
+          "text": "Tới Trung Quốc.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/1936"
+        },
+        {
+          "text": "Kết thúc cương vị Tổng Bí thư — tháng 7/1936 theo Báo Nhân Dân và daihoidang.vn; tháng 10/1936 theo Hệ thống Tư liệu – Văn kiện Đảng.",
+          "sources": [
+            "S02",
+            "S03",
+            "S01"
+          ],
+          "difference": {
+            "kind": "conflict",
+            "label": "Tháng kết thúc nhiệm kỳ",
+            "variants": [
+              {
+                "t": "7/1936",
+                "s": [
+                  "S02",
+                  "S03"
+                ]
+              },
+              {
+                "t": "10/1936",
+                "s": [
+                  "S01"
+                ]
+              }
+            ]
+          },
+          "date": "7/1936 hoặc 10/1936"
+        },
+        {
+          "text": "Về nước hoạt động với tên La Anh.",
+          "sources": [
+            "S02"
+          ],
+          "date": "10/11/1937"
+        },
+        {
+          "text": "Dự Hội nghị Trung ương tại Hóc Môn quyết định thành lập Mặt trận Dân chủ Đông Dương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1938"
+        },
+        {
+          "text": "Bị bắt lần thứ nhất tại Sài Gòn.",
+          "sources": [
+            "S02"
+          ],
+          "date": "22/6/1939"
+        },
+        {
+          "text": "Bị bắt lần thứ hai, bị kết án 5 năm tù, đày ra Côn Đảo.",
+          "sources": [
+            "S02"
+          ],
+          "date": "25/1/1940"
+        },
+        {
+          "text": "Hy sinh tại nhà tù Côn Đảo.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/9/1942"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội I đề ra ba nhiệm vụ trước mắt: củng cố và phát triển Đảng; thu phục quảng đại quần chúng; chống chiến tranh đế quốc. Đại hội thông qua Điều lệ Đảng và nhiều nghị quyết về công tác vận động quần chúng.",
+          "sources": [
+            "S03"
+          ],
+          "date": "27–31/3/1935"
+        },
+        {
+          "text": "Đại hội Quốc tế Cộng sản lần thứ VII chủ trương lập mặt trận nhân dân rộng rãi chống phát xít, chống chiến tranh.",
+          "sources": [
+            "S03"
+          ],
+          "date": "25/7–20/8/1935"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bí thư Ban Chỉ huy ở ngoài của Đảng (thành lập năm 1934 tại Ma Cao)",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Ủy viên Ban Chấp hành Quốc tế Cộng sản (bầu tại Đại hội VII Quốc tế Cộng sản, 1935)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1934–1936",
+        "events": [
+          {
+            "text": "Sau thời kỳ bị khủng bố, các tổ chức Đảng từng bước hồi phục; năm 1934 thành lập Ban Chỉ huy ở ngoài của Đảng.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1934"
+          },
+          {
+            "text": "Các xứ ủy Nam Kỳ, Trung Kỳ, Bắc Kỳ lần lượt được lập lại.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Cuối 1934 – đầu 1935"
+          },
+          {
+            "text": "Phong trào đấu tranh của công nhân từng bước hồi phục; giai đoạn 1931–1935 ở Bắc Kỳ có 551 cuộc đấu tranh của công nhân.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1931–1935"
+          },
+          {
+            "text": "Chủ nghĩa phát xít trở thành mối đe dọa hòa bình thế giới; Hitler trở thành Thủ tướng Đức.",
+            "sources": [
+              "S03"
+            ],
+            "date": "30/1/1933"
+          },
+          {
+            "text": "Đảng Xã hội và Đảng Cộng sản Pháp thành lập mặt trận thống nhất chống chủ nghĩa phát xít.",
+            "sources": [
+              "S03"
+            ],
+            "date": "7/1934"
+          }
+        ]
+      },
+      "eras": [
+        "e1"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "documents": [
+        "D03"
+      ]
+    },
+    {
+      "slug": "ha-huy-tap",
+      "name": "Hà Huy Tập",
+      "initials": "HHT",
+      "order": 3,
+      "summary": "Hà Huy Tập · Tổng Bí thư.",
+      "fields": {
+        "birth": {
+          "text": "24/4/1906",
+          "sources": [
+            "S02"
+          ]
+        },
+        "death": {
+          "text": "28/8/1941 — bị thực dân Pháp xử bắn tại Bà Điểm, Hóc Môn, Gia Định",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Cẩm Hưng, huyện Cẩm Xuyên, tỉnh Hà Tĩnh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "education": {
+          "text": "Trường Đại học Lao động Cộng sản Phương Đông, Mátxcơva (từ 19/7/1929, tốt nghiệp năm 1932)",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [
+        {
+          "text": "Xinhitrơkin — bí danh khi học tại Trường Đại học Lao động Cộng sản Phương Đông",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "7/1936",
+          "end": "3/1938",
+          "startYear": 1936.5,
+          "endYear": 1938.17,
+          "congress": [
+            "I"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S01"
+          ],
+          "appointment": "Ban Chỉ huy ở ngoài của Đảng họp, cử về nước để lập lại Trung ương và giữ chức Tổng Bí thư",
+          "difference": {
+            "kind": "conflict",
+            "label": "Tháng bắt đầu nhiệm kỳ",
+            "variants": [
+              {
+                "t": "7/1936",
+                "s": [
+                  "S02",
+                  "S03"
+                ]
+              },
+              {
+                "t": "10/1936",
+                "s": [
+                  "S01"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Tham gia Hội Phục Việt.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1926"
+        },
+        {
+          "text": "Dạy học tại An Nam học đường, Sài Gòn.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1927"
+        },
+        {
+          "text": "Sang Quảng Châu bàn việc hợp nhất với Hội Việt Nam Cách mạng Thanh niên.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1928"
+        },
+        {
+          "text": "Sang Liên Xô học Trường Đại học Lao động Cộng sản Phương Đông.",
+          "sources": [
+            "S02"
+          ],
+          "date": "19/7/1929"
+        },
+        {
+          "text": "Được kết nạp vào Đảng Cộng sản Bônsêvích Nga.",
+          "sources": [
+            "S02"
+          ],
+          "date": "Cuối năm 1929"
+        },
+        {
+          "text": "Tốt nghiệp; bị Pháp bắt và trục xuất sang Bỉ trên đường về nước.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1932"
+        },
+        {
+          "text": "Tham gia Ban Chỉ huy ở ngoài của Đảng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1934"
+        },
+        {
+          "text": "Trực tiếp chủ trì Đại hội I của Đảng tại Ma Cao.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "27–31/3/1935"
+        },
+        {
+          "text": "Được cử làm Bí thư Ban Chỉ huy ở ngoài.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1935"
+        },
+        {
+          "text": "Giữ chức Tổng Bí thư — tháng 7/1936 theo Báo Nhân Dân và daihoidang.vn; tháng 10/1936 theo Hệ thống Tư liệu – Văn kiện Đảng.",
+          "sources": [
+            "S02",
+            "S03",
+            "S01"
+          ],
+          "difference": {
+            "kind": "conflict",
+            "label": "Tháng bắt đầu nhiệm kỳ",
+            "variants": [
+              {
+                "t": "7/1936",
+                "s": [
+                  "S02",
+                  "S03"
+                ]
+              },
+              {
+                "t": "10/1936",
+                "s": [
+                  "S01"
+                ]
+              }
+            ]
+          },
+          "date": "7/1936 hoặc 10/1936"
+        },
+        {
+          "text": "Đọc báo cáo kiểm điểm sự lãnh đạo của Đảng tại Hội nghị Trung ương ở Bà Điểm.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3–5/9/1937"
+        },
+        {
+          "text": "Thôi chức Tổng Bí thư; là Ủy viên Thường vụ Trung ương, thành viên Ban Bí thư.",
+          "sources": [
+            "S02",
+            "S01"
+          ],
+          "date": "3/1938"
+        },
+        {
+          "text": "Bị bắt tại Sài Gòn.",
+          "sources": [
+            "S02"
+          ],
+          "date": "5/1938"
+        },
+        {
+          "text": "Bị tuyên án 5 năm tù.",
+          "sources": [
+            "S02"
+          ],
+          "date": "25/10/1940"
+        },
+        {
+          "text": "Bị xử bắn tại Bà Điểm, Hóc Môn, Gia Định.",
+          "sources": [
+            "S02"
+          ],
+          "date": "28/8/1941"
+        }
+      ],
+      "events": [
+        {
+          "text": "Hội nghị Trung ương họp ở Bà Điểm, Gia Định.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3–5/9/1937"
+        },
+        {
+          "text": "Hội nghị Trung ương tại Hóc Môn (Gia Định) quyết định thành lập Mặt trận Dân chủ Đông Dương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1938"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bí thư Ban Chỉ huy ở ngoài của Đảng Cộng sản Đông Dương (3/1935)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Ủy viên Thường vụ Trung ương, thành viên Ban Bí thư Trung ương (sau khi thôi chức Tổng Bí thư, 3/1938)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1936–1938",
+        "events": [
+          {
+            "text": "Đại hội VII Quốc tế Cộng sản chủ trương thành lập mặt trận nhân dân rộng rãi chống phát xít, chống chiến tranh, đòi tự do, dân chủ.",
+            "sources": [
+              "S03"
+            ],
+            "date": "7–8/1935"
+          },
+          {
+            "text": "Chính phủ phát xít Italy tiến hành xâm lược Ethiopia.",
+            "sources": [
+              "S03"
+            ],
+            "date": "10/1935"
+          },
+          {
+            "text": "Hội nghị Trung ương tại Hóc Môn quyết định thành lập Mặt trận Dân chủ Đông Dương.",
+            "sources": [
+              "S02"
+            ],
+            "date": "3/1938"
+          }
+        ]
+      },
+      "eras": [
+        "e1"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "documents": [
+        "D03"
+      ]
+    },
+    {
+      "slug": "nguyen-van-cu",
+      "name": "Nguyễn Văn Cừ",
+      "initials": "NVC",
+      "order": 4,
+      "summary": "Nguyễn Văn Cừ · Tổng Bí thư.",
+      "fields": {
+        "birth": {
+          "text": "9/7/1912",
+          "sources": [
+            "S02",
+            "S16"
+          ]
+        },
+        "death": {
+          "text": "28/8/1941 — bị thực dân Pháp xử bắn tại Bà Điểm, Hóc Môn, Gia Định",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Phù Khê, huyện Từ Sơn, tỉnh Bắc Ninh",
+          "sources": [
+            "S02",
+            "S16"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "education": {
+          "text": "Học sinh Trường Bưởi (Hà Nội); nguồn ghi ông tham gia cách mạng từ khi còn là học sinh trường này, sau đó bị đuổi học",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "3/1938",
+          "end": "1/1940",
+          "startYear": 1938.17,
+          "endYear": 1940.05,
+          "congress": [
+            "I"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S01",
+            "S16"
+          ],
+          "appointment": "Được cử làm Tổng Bí thư tại Hội nghị Trung ương họp ở Tân Thới Nhất, Hóc Môn (Gia Định)"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Ra mỏ Vàng Danh làm phu cuốc than theo chủ trương vô sản hóa.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1928"
+        },
+        {
+          "text": "Gia nhập Đông Dương Cộng sản Đảng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1929"
+        },
+        {
+          "text": "Bí thư Đặc khu ủy Hòn Gai – Uông Bí.",
+          "sources": [
+            "S02"
+          ],
+          "date": "Sau 3/2/1930"
+        },
+        {
+          "text": "Bị bắt; bị giam ở các nhà tù Hòn Gai, Hỏa Lò, Côn Đảo.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1931–9/1936"
+        },
+        {
+          "text": "Được bầu vào Ban Thường vụ Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "9/1937"
+        },
+        {
+          "text": "Được cử làm Tổng Bí thư tại Hội nghị Trung ương ở Tân Thới Nhất, Hóc Môn.",
+          "sources": [
+            "S02",
+            "S01",
+            "S16"
+          ],
+          "date": "3/1938"
+        },
+        {
+          "text": "Viết tác phẩm Tự chỉ trích.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1939"
+        },
+        {
+          "text": "Cùng triệu tập, chủ trì Hội nghị Trung ương tại Bà Điểm; thành lập Mặt trận Thống nhất dân tộc phản đế Đông Dương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "11/1939"
+        },
+        {
+          "text": "Bị bắt tại Sài Gòn.",
+          "sources": [
+            "S02"
+          ],
+          "date": "18/1/1940"
+        },
+        {
+          "text": "Bị xử bắn tại Bà Điểm, Hóc Môn, Gia Định.",
+          "sources": [
+            "S02"
+          ],
+          "date": "28/8/1941"
+        }
+      ],
+      "events": [
+        {
+          "text": "Hội nghị Trung ương tại Bà Điểm quyết định chuyển hướng chỉ đạo chiến lược, thành lập Mặt trận Thống nhất dân tộc phản đế Đông Dương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "11/1939"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bí thư Đặc khu ủy Hòn Gai – Uông Bí (sau ngày 3/2/1930)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Ủy viên Ban Thường vụ Trung ương (bầu tháng 9/1937)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1938–1940",
+        "events": [
+          {
+            "text": "Hội nghị Trung ương tại Hóc Môn quyết định thành lập Mặt trận Dân chủ Đông Dương.",
+            "sources": [
+              "S02"
+            ],
+            "date": "3/1938"
+          },
+          {
+            "text": "Hội nghị Trung ương lần thứ 6 quyết định thành lập Mặt trận Phản đế Đông Dương thay cho Mặt trận Dân chủ.",
+            "sources": [
+              "S02"
+            ],
+            "date": "Cuối năm 1939"
+          },
+          {
+            "text": "Khởi nghĩa Nam Kỳ bùng nổ.",
+            "sources": [
+              "S02"
+            ],
+            "date": "23/11/1940"
+          }
+        ]
+      },
+      "eras": [
+        "e1"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S16"
+      ],
+      "documents": [
+        "D04"
+      ]
+    },
+    {
+      "slug": "truong-chinh",
+      "name": "Trường Chinh",
+      "initials": "TC",
+      "order": 5,
+      "summary": "Trường Chinh · Quyền Tổng Bí thư, Tổng Bí thư.",
+      "fields": {
+        "realName": {
+          "text": "Đặng Xuân Khu",
+          "sources": [
+            "S02"
+          ]
+        },
+        "birth": {
+          "text": "9/2/1907",
+          "sources": [
+            "S02"
+          ]
+        },
+        "death": {
+          "text": "30/9/1988 — tại Hà Nội",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "làng Hành Thiện, xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "qtbt",
+          "title": "Quyền Tổng Bí thư",
+          "start": "1940",
+          "end": "1941",
+          "startYear": 1940,
+          "endYear": 1941.33,
+          "congress": [
+            "I"
+          ],
+          "sources": [
+            "S02"
+          ],
+          "appointment": "Hội nghị Trung ương 7 bầu vào Ban Chấp hành Trung ương và cử làm Quyền Tổng Bí thư"
+        },
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "5/1941",
+          "end": "10/1956",
+          "startYear": 1941.33,
+          "endYear": 1956.75,
+          "congress": [
+            "I",
+            "II"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S01",
+            "S13"
+          ],
+          "appointment": "Hội nghị Ban Chấp hành Trung ương lần thứ 8 (họp tại Pác Bó, Cao Bằng) bầu; Đại hội II (2/1951) bầu lại"
+        },
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "14/7/1986",
+          "end": "12/1986",
+          "startYear": 1986.53,
+          "endYear": 1986.96,
+          "congress": [
+            "V"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S01",
+            "S13"
+          ],
+          "appointment": "Hội nghị đặc biệt Ban Chấp hành Trung ương bầu thay đồng chí Lê Duẩn đã từ trần"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Tham gia phong trào đòi ân xá cho Phan Bội Châu.",
+          "sources": [
+            "S02",
+            "S13"
+          ],
+          "date": "1925"
+        },
+        {
+          "text": "Lãnh đạo bãi khóa ở Nam Định để truy điệu Phan Chu Trinh; bị đuổi học.",
+          "sources": [
+            "S02",
+            "S13"
+          ],
+          "date": "1926"
+        },
+        {
+          "text": "Tham gia Hội Việt Nam Cách mạng Thanh niên.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1927"
+        },
+        {
+          "text": "Bị bắt, kết án 12 năm tù, đày đi Sơn La (được trả tự do năm 1936).",
+          "sources": [
+            "S02"
+          ],
+          "date": "Cuối năm 1930"
+        },
+        {
+          "text": "Ủy viên Xứ ủy Bắc Kỳ; đại biểu của Đảng trong Ủy ban Mặt trận Dân chủ Bắc Kỳ.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1936–1939"
+        },
+        {
+          "text": "Được cử làm Quyền Tổng Bí thư tại Hội nghị Trung ương 7.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1940"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Hội nghị Ban Chấp hành Trung ương lần thứ 8 (Pác Bó, Cao Bằng).",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": "5/1941"
+        },
+        {
+          "text": "Bị thực dân Pháp kết án tử hình vắng mặt.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1943"
+        },
+        {
+          "text": "Chủ trì Hội nghị Thường vụ Trung ương mở rộng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "9/3/1945"
+        },
+        {
+          "text": "Phụ trách Ủy ban Khởi nghĩa toàn quốc.",
+          "sources": [
+            "S02"
+          ],
+          "date": "8/1945"
+        },
+        {
+          "text": "Đại hội II bầu lại làm Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S03",
+            "S13"
+          ],
+          "date": "2/1951"
+        },
+        {
+          "text": "Trưởng Ban Cải cách ruộng đất của Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1953"
+        },
+        {
+          "text": "Giữ chức Tổng Bí thư đến tháng 10/1956.",
+          "sources": [
+            "S02",
+            "S13",
+            "S01"
+          ],
+          "date": "10/1956"
+        },
+        {
+          "text": "Phó Thủ tướng kiêm Chủ nhiệm Ủy ban Khoa học nhà nước.",
+          "sources": [
+            "S02",
+            "S13"
+          ],
+          "date": "1958"
+        },
+        {
+          "text": "Chủ tịch Ủy ban Thường vụ Quốc hội.",
+          "sources": [
+            "S02"
+          ],
+          "date": "7/1960"
+        },
+        {
+          "text": "Chủ tịch Hội đồng Nhà nước, Chủ tịch Hội đồng Quốc phòng.",
+          "sources": [
+            "S02",
+            "S13"
+          ],
+          "date": "1981"
+        },
+        {
+          "text": "Hội nghị đặc biệt Ban Chấp hành Trung ương bầu làm Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S03",
+            "S13"
+          ],
+          "date": "14/7/1986"
+        },
+        {
+          "text": "Được suy tôn làm Cố vấn Ban Chấp hành Trung ương tại Đại hội VI.",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": "12/1986"
+        },
+        {
+          "text": "Từ trần tại Hà Nội.",
+          "sources": [
+            "S02"
+          ],
+          "date": "30/9/1988"
+        }
+      ],
+      "events": [
+        {
+          "text": "Hội nghị Trung ương 8 họp tại Pác Bó do Nguyễn Ái Quốc triệu tập; thành lập Việt Nam độc lập đồng minh Hội (Việt Minh).",
+          "sources": [
+            "S04",
+            "S03"
+          ],
+          "date": "5/1941"
+        },
+        {
+          "text": "Hội nghị toàn quốc của Đảng và Đại hội Quốc dân quyết định Tổng khởi nghĩa; Ủy ban giải phóng dân tộc Việt Nam do Hồ Chí Minh làm Chủ tịch được bầu ra.",
+          "sources": [
+            "S04"
+          ],
+          "date": "8/1945"
+        },
+        {
+          "text": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập tại Quảng trường Ba Đình, thành lập nước Việt Nam Dân chủ Cộng hòa.",
+          "sources": [
+            "S04"
+          ],
+          "date": "2/9/1945"
+        },
+        {
+          "text": "Chủ tịch Hồ Chí Minh ra Lời kêu gọi Toàn quốc kháng chiến.",
+          "sources": [
+            "S04"
+          ],
+          "date": "19/12/1946"
+        },
+        {
+          "text": "Đại hội II quyết định đưa Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": "2/1951"
+        },
+        {
+          "text": "Chiến thắng Điện Biên Phủ.",
+          "sources": [
+            "S04"
+          ],
+          "date": "7/5/1954"
+        },
+        {
+          "text": "Hiệp định Giơnevơ được ký kết; hòa bình được lập lại ở Đông Dương.",
+          "sources": [
+            "S03"
+          ],
+          "date": "21/7/1954"
+        },
+        {
+          "text": "Tổng Bí thư Lê Duẩn từ trần; ngày 14/7/1986 Ban Chấp hành Trung ương họp phiên đặc biệt bầu đồng chí Trường Chinh làm Tổng Bí thư.",
+          "sources": [
+            "S03"
+          ],
+          "date": "7/1986"
+        },
+        {
+          "text": "Đại hội VI đề ra đường lối đổi mới.",
+          "sources": [
+            "S03"
+          ],
+          "date": "15–18/12/1986"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Trưởng Ban Cải cách ruộng đất của Trung ương (1953)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Phó Thủ tướng kiêm Chủ nhiệm Ủy ban Khoa học nhà nước (1958)",
+          "sources": [
+            "S02",
+            "S13"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch Ủy ban Thường vụ Quốc hội (từ 7/1960; các khóa II–VI)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch Hội đồng Nhà nước (1981–1987), Chủ tịch Hội đồng Quốc phòng",
+          "sources": [
+            "S02",
+            "S13"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Cố vấn Ban Chấp hành Trung ương (12/1986–9/1988)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1940–1956 và năm 1986",
+        "events": [
+          {
+            "text": "Nguyễn Ái Quốc về nước sau hơn 30 năm; tháng 5/1941 Người triệu tập Hội nghị Trung ương 8.",
+            "sources": [
+              "S04"
+            ],
+            "date": "28/1/1941"
+          },
+          {
+            "text": "Theo chỉ thị của Hồ Chí Minh, Đội Việt Nam tuyên truyền giải phóng quân được thành lập.",
+            "sources": [
+              "S04"
+            ],
+            "date": "12/1944"
+          },
+          {
+            "text": "Chiến dịch Biên giới giành thắng lợi, mở ra bước phát triển mới cho cuộc kháng chiến chống Pháp.",
+            "sources": [
+              "S03"
+            ],
+            "date": "16/9–17/10/1950"
+          },
+          {
+            "text": "Đảng Lao động Việt Nam ra mắt quốc dân; ngày 11/3/1951 Báo Nhân Dân ra số đầu tiên.",
+            "sources": [
+              "S03"
+            ],
+            "date": "3/3/1951"
+          },
+          {
+            "text": "Sau Hiệp định Giơnevơ, đất nước tạm thời bị chia cắt làm hai miền.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1954"
+          }
+        ]
+      },
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S13"
+      ],
+      "documents": [
+        "D05"
+      ]
+    },
+    {
+      "slug": "ho-chi-minh",
+      "name": "Hồ Chí Minh",
+      "initials": "HCM",
+      "order": 6,
+      "summary": "Hồ Chí Minh · Chủ tịch Ban Chấp hành Trung ương Đảng (Chủ tịch Đảng), Tổng Bí thư (Chủ tịch Đảng kiêm nhiệm).",
+      "fields": {
+        "realName": {
+          "text": "Nguyễn Sinh Cung (tên lúc nhỏ)",
+          "sources": [
+            "S04"
+          ]
+        },
+        "birth": {
+          "text": "19/5/1890",
+          "sources": [
+            "S04"
+          ]
+        },
+        "death": {
+          "text": "2/9/1969 — tại Hà Nội",
+          "sources": [
+            "S04"
+          ]
+        },
+        "hometown": {
+          "text": "Tỉnh Nghệ An",
+          "sources": [
+            "S04"
+          ]
+        }
+      },
+      "aliases": [
+        {
+          "text": "Nguyễn Tất Thành — tên khi đi học",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Nguyễn Ái Quốc — tên khi hoạt động cách mạng",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hồ Chí Minh — lấy tên này từ tháng 8/1942",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        }
+      ],
+      "terms": [
+        {
+          "kind": "ctd",
+          "title": "Chủ tịch Ban Chấp hành Trung ương Đảng (Chủ tịch Đảng)",
+          "start": "2/1951",
+          "end": "9/1969",
+          "startYear": 1951.08,
+          "endYear": 1969.67,
+          "congress": [
+            "II",
+            "III"
+          ],
+          "sources": [
+            "S03",
+            "S04",
+            "S01",
+            "S07"
+          ],
+          "appointment": "Được bầu tại Đại hội II (2/1951); được bầu lại tại Đại hội III (9/1960)"
+        },
+        {
+          "kind": "tbtk",
+          "title": "Tổng Bí thư (Chủ tịch Đảng kiêm nhiệm)",
+          "start": "10/1956",
+          "end": "9/1960",
+          "startYear": 1956.75,
+          "endYear": 1960.67,
+          "congress": [
+            "II"
+          ],
+          "sources": [
+            "S04",
+            "S01"
+          ],
+          "appointment": "Hội nghị Trung ương mở rộng lần thứ X (khóa II) bầu làm Chủ tịch Đảng, kiêm Tổng Bí thư"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Rời bến cảng Nhà Rồng ra đi tìm đường cứu nước.",
+          "sources": [
+            "S04"
+          ],
+          "date": "5/6/1911"
+        },
+        {
+          "text": "Gửi bản yêu sách tới Hội nghị Vécxây với tên Nguyễn Ái Quốc.",
+          "sources": [
+            "S04"
+          ],
+          "date": "1919"
+        },
+        {
+          "text": "Tham gia sáng lập Đảng Cộng sản Pháp.",
+          "sources": [
+            "S04"
+          ],
+          "date": "12/1920"
+        },
+        {
+          "text": "Sang Liên Xô, làm việc tại Quốc tế Cộng sản.",
+          "sources": [
+            "S04"
+          ],
+          "date": "6/1923"
+        },
+        {
+          "text": "Thành lập Hội Việt Nam Cách mạng Thanh niên.",
+          "sources": [
+            "S04"
+          ],
+          "date": "6/1925"
+        },
+        {
+          "text": "Chủ trì Hội nghị thành lập Đảng Cộng sản Việt Nam tại Hồng Kông.",
+          "sources": [
+            "S03",
+            "S04"
+          ],
+          "difference": {
+            "kind": "conflict",
+            "label": "Thời gian Hội nghị thành lập Đảng",
+            "variants": [
+              {
+                "t": "Từ 6/1 đến đầu tháng 2/1930 (mục Các kỳ Đại hội trên daihoidang.vn)",
+                "s": [
+                  "S03"
+                ]
+              },
+              {
+                "t": "Từ ngày 3 đến 7/2/1930 (hồ sơ Hồ Chí Minh trên daihoidang.vn)",
+                "s": [
+                  "S04"
+                ]
+              }
+            ]
+          },
+          "date": "Đầu năm 1930"
+        },
+        {
+          "text": "Bị chính quyền Anh bắt giam tại Hồng Kông (được trả tự do cuối năm 1932).",
+          "sources": [
+            "S04"
+          ],
+          "date": "6/1931"
+        },
+        {
+          "text": "Về nước sau hơn 30 năm.",
+          "sources": [
+            "S04"
+          ],
+          "date": "28/1/1941"
+        },
+        {
+          "text": "Triệu tập Hội nghị Trung ương 8; thành lập Việt Minh.",
+          "sources": [
+            "S04"
+          ],
+          "date": "5/1941"
+        },
+        {
+          "text": "Lấy tên là Hồ Chí Minh, sang Trung Quốc; bị bắt giam trong các nhà lao tỉnh Quảng Tây, được trả tự do tháng 9/1943.",
+          "sources": [
+            "S04"
+          ],
+          "date": "8/1942"
+        },
+        {
+          "text": "Chỉ thị thành lập Đội Việt Nam tuyên truyền giải phóng quân.",
+          "sources": [
+            "S04"
+          ],
+          "date": "12/1944"
+        },
+        {
+          "text": "Đọc Tuyên ngôn độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa.",
+          "sources": [
+            "S04"
+          ],
+          "date": "2/9/1945"
+        },
+        {
+          "text": "Quốc hội khóa I bầu làm Chủ tịch nước.",
+          "sources": [
+            "S04"
+          ],
+          "date": "1/1946"
+        },
+        {
+          "text": "Ra Lời kêu gọi Toàn quốc kháng chiến.",
+          "sources": [
+            "S04"
+          ],
+          "date": "19/12/1946"
+        },
+        {
+          "text": "Được bầu làm Chủ tịch Ban Chấp hành Trung ương Đảng tại Đại hội II.",
+          "sources": [
+            "S03",
+            "S04"
+          ],
+          "date": "2/1951"
+        },
+        {
+          "text": "Hội nghị Trung ương mở rộng lần thứ X bầu làm Chủ tịch Đảng, kiêm Tổng Bí thư.",
+          "sources": [
+            "S04",
+            "S01"
+          ],
+          "date": "10/1956"
+        },
+        {
+          "text": "Đại hội III bầu lại làm Chủ tịch Ban Chấp hành Trung ương.",
+          "sources": [
+            "S03",
+            "S04"
+          ],
+          "date": "9/1960"
+        },
+        {
+          "text": "Mất tại Hà Nội.",
+          "sources": [
+            "S04"
+          ],
+          "date": "2/9/1969"
+        }
+      ],
+      "events": [
+        {
+          "text": "Chiến thắng Điện Biên Phủ kết thúc cuộc kháng chiến chống thực dân Pháp.",
+          "sources": [
+            "S04"
+          ],
+          "date": "7/5/1954"
+        },
+        {
+          "text": "Hiệp định Giơnevơ được ký kết; đất nước tạm thời bị chia cắt làm hai miền.",
+          "sources": [
+            "S03"
+          ],
+          "date": "21/7/1954"
+        },
+        {
+          "text": "Trung ương Đảng và Chủ tịch Hồ Chí Minh đề ra hai nhiệm vụ chiến lược: tiến hành cách mạng xã hội chủ nghĩa và xây dựng chủ nghĩa xã hội ở miền Bắc, đồng thời đấu tranh giải phóng miền Nam, thực hiện thống nhất nước nhà.",
+          "sources": [
+            "S04"
+          ],
+          "date": "1955"
+        },
+        {
+          "text": "Công bố Hiến pháp nước Việt Nam Dân chủ Cộng hòa năm 1959.",
+          "sources": [
+            "S03"
+          ],
+          "date": "1/1/1960"
+        },
+        {
+          "text": "Đại hội III đề ra đường lối chung cho cách mạng Việt Nam trong giai đoạn mới.",
+          "sources": [
+            "S03"
+          ],
+          "date": "5–10/9/1960"
+        },
+        {
+          "text": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời.",
+          "sources": [
+            "S03"
+          ],
+          "date": "20/12/1960"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Chủ tịch, kiêm Bộ trưởng Bộ Ngoại giao Chính phủ lâm thời (từ 28/8/1945)",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch nước Việt Nam Dân chủ Cộng hòa (1/1946–9/1969)",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch nước kiêm Thủ tướng Chính phủ (11/1946–9/1955)",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1951–1969",
+        "events": [
+          {
+            "text": "Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố về đường lối ngoại giao; các nước xã hội chủ nghĩa lần lượt công nhận và đặt quan hệ ngoại giao.",
+            "sources": [
+              "S03"
+            ],
+            "date": "14/1/1950"
+          },
+          {
+            "text": "Từ sau chiến thắng Biên giới 1950, cuộc kháng chiến chống Pháp bước sang giai đoạn phản công và tiến công.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1950–1951"
+          },
+          {
+            "text": "Phong trào Đồng khởi lan rộng ở miền Nam, tiêu biểu ở Bến Tre.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1/1960"
+          },
+          {
+            "text": "Bầu cử Quốc hội khóa II.",
+            "sources": [
+              "S03"
+            ],
+            "date": "8/5/1960"
+          }
+        ]
+      },
+      "eras": [
+        "e2",
+        "e3"
+      ],
+      "sources": [
+        "S01",
+        "S03",
+        "S04",
+        "S07"
+      ],
+      "documents": [
+        "D01",
+        "D05",
+        "D06"
+      ]
+    },
+    {
+      "slug": "le-duan",
+      "name": "Lê Duẩn",
+      "initials": "LD",
+      "order": 7,
+      "summary": "Lê Duẩn · Bí thư thứ nhất Ban Chấp hành Trung ương, Tổng Bí thư.",
+      "fields": {
+        "realName": {
+          "text": "Lê Văn Nhuận",
+          "sources": [
+            "S02"
+          ]
+        },
+        "birth": {
+          "text": "7/4/1907",
+          "sources": [
+            "S02",
+            "S12"
+          ]
+        },
+        "death": {
+          "text": "10/7/1986",
+          "sources": [
+            "S02",
+            "S12"
+          ]
+        },
+        "hometown": {
+          "text": "làng Hậu Kiên, xã Triệu Thành, huyện Triệu Phong, tỉnh Quảng Trị",
+          "sources": [
+            "S02"
+          ],
+          "difference": {
+            "kind": "variant",
+            "label": "Cách ghi khác",
+            "variants": [
+              {
+                "t": "Xã Triệu Thành, huyện Triệu Phong, tỉnh Quảng Trị",
+                "s": [
+                  "S12"
+                ]
+              }
+            ]
+          }
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "1930",
+          "sources": [
+            "S02",
+            "S12"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "bttn",
+          "title": "Bí thư thứ nhất Ban Chấp hành Trung ương",
+          "start": "9/1960",
+          "end": "12/1976",
+          "startYear": 1960.67,
+          "endYear": 1976.92,
+          "congress": [
+            "III"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S12"
+          ],
+          "appointment": "Được bầu tại Đại hội III (9/1960)",
+          "difference": {
+            "kind": "variant",
+            "label": "Cách ghi chức danh trong danh mục",
+            "variants": [
+              {
+                "t": "Danh mục 'Tổng Bí thư' của Hệ thống Tư liệu – Văn kiện Đảng ghi gộp: Tổng Bí thư từ 9/1960 đến 7/1986",
+                "s": [
+                  "S01"
+                ]
+              },
+              {
+                "t": "Trang tiểu sử trên cùng hệ thống ghi rõ: tại Đại hội III giữ chức Bí thư thứ nhất",
+                "s": [
+                  "S12"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư",
+          "start": "12/1976",
+          "end": "7/1986",
+          "startYear": 1976.92,
+          "endYear": 1986.52,
+          "congress": [
+            "IV",
+            "V"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S12"
+          ],
+          "appointment": "Được bầu tại Đại hội IV (12/1976), đại hội đặt lại chức vụ Tổng Bí thư thay chức Bí thư thứ nhất; được bầu lại tại Đại hội V (3/1982)"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Tham gia Hội Việt Nam Cách mạng Thanh niên.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "1928"
+        },
+        {
+          "text": "Vào Đảng.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "1930"
+        },
+        {
+          "text": "Ủy viên Ban Tuyên huấn Xứ ủy Bắc Kỳ; bị bắt tại Hải Phòng, kết án 20 năm tù.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "1931"
+        },
+        {
+          "text": "Được trả tự do, tiếp tục hoạt động ở Trung Kỳ.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1936"
+        },
+        {
+          "text": "Bí thư Xứ ủy Trung Kỳ — Báo Nhân Dân ghi năm 1937; Hệ thống Tư liệu – Văn kiện Đảng ghi năm 1938.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "difference": {
+            "kind": "conflict",
+            "label": "Năm giữ chức Bí thư Xứ ủy Trung Kỳ",
+            "variants": [
+              {
+                "t": "Năm 1937",
+                "s": [
+                  "S02"
+                ]
+              },
+              {
+                "t": "Năm 1938",
+                "s": [
+                  "S12"
+                ]
+              }
+            ]
+          },
+          "date": "1937 hoặc 1938"
+        },
+        {
+          "text": "Được cử vào Ban Thường vụ Trung ương (Báo Nhân Dân); được cử làm Ủy viên Trung ương (Hệ thống Tư liệu – Văn kiện Đảng).",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "difference": {
+            "kind": "variant",
+            "label": "Hai nguồn mô tả khác nhau",
+            "variants": [
+              {
+                "t": "Năm 1939: được cử vào Ban Thường vụ Trung ương",
+                "s": [
+                  "S02"
+                ]
+              },
+              {
+                "t": "Năm 1939: được cử làm Ủy viên Trung ương Đảng",
+                "s": [
+                  "S12"
+                ]
+              }
+            ]
+          },
+          "date": "1939"
+        },
+        {
+          "text": "Cùng Tổng Bí thư Nguyễn Văn Cừ chủ trì Hội nghị Trung ương lần thứ 6.",
+          "sources": [
+            "S02"
+          ],
+          "date": "Cuối năm 1939"
+        },
+        {
+          "text": "Bị bắt tại Sài Gòn, kết án 10 năm tù, đày ra Côn Đảo lần thứ hai.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "1940"
+        },
+        {
+          "text": "Bí thư Xứ ủy, rồi Bí thư Trung ương Cục miền Nam.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "1946–1954"
+        },
+        {
+          "text": "Được bầu vào Ban Chấp hành Trung ương và Bộ Chính trị tại Đại hội II.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "1951"
+        },
+        {
+          "text": "Lãnh đạo công việc chung của Đảng bên cạnh Chủ tịch Hồ Chí Minh (Báo Nhân Dân, cuối 1957); vào Ban Bí thư, chủ trì công việc Ban Bí thư (Hệ thống Tư liệu – Văn kiện Đảng, 1958).",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "difference": {
+            "kind": "variant",
+            "label": "Hai nguồn mô tả khác nhau",
+            "variants": [
+              {
+                "t": "Cuối năm 1957: Trung ương cử lãnh đạo công việc chung của Đảng bên cạnh Hồ Chủ tịch",
+                "s": [
+                  "S02"
+                ]
+              },
+              {
+                "t": "Năm 1958: Trung ương cử vào Ban Bí thư và chủ trì công việc của Ban Bí thư",
+                "s": [
+                  "S12"
+                ]
+              }
+            ]
+          },
+          "date": "1957–1958"
+        },
+        {
+          "text": "Đọc Báo cáo chính trị tại Đại hội III; được bầu làm Bí thư thứ nhất Ban Chấp hành Trung ương.",
+          "sources": [
+            "S12",
+            "S02",
+            "S03"
+          ],
+          "date": "9/1960"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Đại hội IV.",
+          "sources": [
+            "S02",
+            "S03",
+            "S12"
+          ],
+          "date": "12/1976"
+        },
+        {
+          "text": "Đại hội V bầu lại làm Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S03",
+            "S12"
+          ],
+          "date": "3/1982"
+        },
+        {
+          "text": "Từ trần.",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": "10/7/1986"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội III đề ra đường lối: đẩy mạnh cách mạng xã hội chủ nghĩa ở miền Bắc, đồng thời đẩy mạnh cách mạng dân tộc dân chủ nhân dân ở miền Nam, nhằm hòa bình thống nhất nước nhà; thông qua Kế hoạch 5 năm lần thứ nhất (1961–1965).",
+          "sources": [
+            "S03"
+          ],
+          "date": "9/1960"
+        },
+        {
+          "text": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra đời.",
+          "sources": [
+            "S03"
+          ],
+          "date": "20/12/1960"
+        },
+        {
+          "text": "Chủ tịch Hồ Chí Minh qua đời.",
+          "sources": [
+            "S04"
+          ],
+          "date": "2/9/1969"
+        },
+        {
+          "text": "Miền Nam được giải phóng hoàn toàn, đất nước thống nhất, kết thúc cuộc kháng chiến chống Mỹ, cứu nước kéo dài 21 năm (1954–1975).",
+          "sources": [
+            "S03"
+          ],
+          "date": "30/4/1975"
+        },
+        {
+          "text": "Tổng tuyển cử bầu Quốc hội khóa VI; kỳ họp thứ nhất Quốc hội khóa VI (24/6–3/7/1976) quyết định tên nước Cộng hòa xã hội chủ nghĩa Việt Nam và đặt tên Thành phố Hồ Chí Minh.",
+          "sources": [
+            "S03"
+          ],
+          "date": "25/4/1976"
+        },
+        {
+          "text": "Đại hội IV đổi tên Đảng Lao động Việt Nam thành Đảng Cộng sản Việt Nam.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": "12/1976"
+        },
+        {
+          "text": "Đại hội V xác định hai nhiệm vụ chiến lược: xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+          "sources": [
+            "S03"
+          ],
+          "date": "3/1982"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bí thư Xứ ủy Trung Kỳ",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "difference": {
+            "kind": "conflict",
+            "label": "Năm giữ chức Bí thư Xứ ủy Trung Kỳ",
+            "variants": [
+              {
+                "t": "Năm 1937",
+                "s": [
+                  "S02"
+                ]
+              },
+              {
+                "t": "Năm 1938",
+                "s": [
+                  "S12"
+                ]
+              }
+            ]
+          },
+          "date": ""
+        },
+        {
+          "text": "Bí thư Xứ ủy, rồi Bí thư Trung ương Cục miền Nam (1946–1954)",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Bí thư Quân ủy Trung ương (từ Đại hội III, 9/1960)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại biểu Quốc hội các khóa II–VII",
+          "sources": [
+            "S02",
+            "S12"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1960–1986",
+        "events": [
+          {
+            "text": "Mỹ triển khai chiến lược Chiến tranh đặc biệt ở miền Nam Việt Nam.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1961"
+          },
+          {
+            "text": "Khánh thành tuyến đường sắt Thống Nhất dài trên 1.700 km từ Hà Nội đến Thành phố Hồ Chí Minh.",
+            "sources": [
+              "S03"
+            ],
+            "date": "31/12/1976"
+          },
+          {
+            "text": "Thành lập Xí nghiệp liên doanh dầu khí Việt – Xô (Vietsovpetro).",
+            "sources": [
+              "S03"
+            ],
+            "date": "19/6/1981"
+          },
+          {
+            "text": "Tình hình kinh tế – xã hội Liên Xô và các nước xã hội chủ nghĩa Đông Âu gặp khó khăn; Mỹ tiếp tục thực hiện chính sách bao vây, cấm vận Việt Nam.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Đầu thập niên 1980"
+          }
+        ]
+      },
+      "eras": [
+        "e3",
+        "e4"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S12"
+      ],
+      "documents": [
+        "D06",
+        "D07"
+      ]
+    },
+    {
+      "slug": "nguyen-van-linh",
+      "name": "Nguyễn Văn Linh",
+      "initials": "NVL",
+      "order": 8,
+      "summary": "Nguyễn Văn Linh · Tổng Bí thư Ban Chấp hành Trung ương.",
+      "fields": {
+        "realName": {
+          "text": "Nguyễn Văn Cúc",
+          "sources": [
+            "S02"
+          ]
+        },
+        "birth": {
+          "text": "1/7/1915",
+          "sources": [
+            "S02"
+          ]
+        },
+        "death": {
+          "text": "27/4/1998",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Giai Phạm, huyện Yên Mỹ, tỉnh Hưng Yên",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "1936 — được kết nạp vào Đảng Cộng sản Đông Dương",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư Ban Chấp hành Trung ương",
+          "start": "12/1986",
+          "end": "6/1991",
+          "startYear": 1986.96,
+          "endYear": 1991.48,
+          "congress": [
+            "VI"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S01",
+            "S15"
+          ],
+          "appointment": "Được bầu tại Đại hội VI (12/1986)"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Tham gia học sinh đoàn do Hội Việt Nam Cách mạng Thanh niên lãnh đạo.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1929"
+        },
+        {
+          "text": "Bị bắt, bị kết án tù chung thân, đày đi Côn Đảo.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/5/1930"
+        },
+        {
+          "text": "Được trả tự do; được kết nạp vào Đảng Cộng sản Đông Dương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1936"
+        },
+        {
+          "text": "Bị bắt ở Vinh, kết án 5 năm tù, đày ra Côn Đảo lần thứ hai.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1941"
+        },
+        {
+          "text": "Bí thư Thành ủy, Bí thư Đặc khu ủy Sài Gòn – Gia Định.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1945"
+        },
+        {
+          "text": "Quyền Bí thư Xứ ủy Nam Bộ.",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": "1957–1960"
+        },
+        {
+          "text": "Được bầu vào Ban Chấp hành Trung ương tại Đại hội III.",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": "1960"
+        },
+        {
+          "text": "Bí thư Thành ủy Thành phố Hồ Chí Minh.",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": "1976"
+        },
+        {
+          "text": "Được bầu vào Bộ Chính trị, Ban Bí thư tại Đại hội IV.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1976"
+        },
+        {
+          "text": "Lại làm Bí thư Thành ủy Thành phố Hồ Chí Minh.",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": "12/1981"
+        },
+        {
+          "text": "Được bầu vào Bộ Chính trị (Hội nghị Trung ương 8).",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": "6/1985"
+        },
+        {
+          "text": "Được bầu vào Ban Bí thư, phân công Thường trực Ban Bí thư.",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": "6/1986"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Đại hội VI.",
+          "sources": [
+            "S02",
+            "S03",
+            "S15"
+          ],
+          "date": "12/1986"
+        },
+        {
+          "text": "Chuyên mục Những việc cần làm ngay ký tên N.V.L ra đời trên báo Nhân Dân.",
+          "sources": [
+            "S03"
+          ],
+          "date": "25/5/1987"
+        },
+        {
+          "text": "Thăm và làm việc tại Liên Xô.",
+          "sources": [
+            "S03"
+          ],
+          "date": "7–13/5/1991"
+        },
+        {
+          "text": "Được suy tôn làm Cố vấn Ban Chấp hành Trung ương tại Đại hội VII.",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": "6/1991"
+        },
+        {
+          "text": "Thôi Cố vấn Ban Chấp hành Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1997"
+        },
+        {
+          "text": "Từ trần.",
+          "sources": [
+            "S02"
+          ],
+          "date": "27/4/1998"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội VI đề ra đường lối đổi mới, xác định Đảng phải đổi mới tư duy, trước hết là tư duy kinh tế.",
+          "sources": [
+            "S03"
+          ],
+          "date": "15–18/12/1986"
+        },
+        {
+          "text": "Bộ Chính trị ra Nghị quyết số 26-NQ/TW về khoa học và công nghệ trong sự nghiệp đổi mới.",
+          "sources": [
+            "S03"
+          ],
+          "date": "30/3/1991"
+        },
+        {
+          "text": "Đại hội VII thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+          "sources": [
+            "S03"
+          ],
+          "date": "24–27/6/1991"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Quyền Bí thư Xứ ủy Nam Bộ (1957–1960)",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Bí thư Thành ủy Thành phố Hồ Chí Minh (1976; từ 12/1981)",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch Tổng Công đoàn Việt Nam (5/1978–8/1980)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Thường trực Ban Bí thư (từ 6/1986)",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Bí thư Đảng ủy Quân sự Trung ương (từ 1987)",
+          "sources": [
+            "S02",
+            "S15"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại biểu Quốc hội khóa VIII",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Cố vấn Ban Chấp hành Trung ương (6/1991–12/1997)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1986–1991",
+        "events": [
+          {
+            "text": "Với tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật”, Đại hội VI chỉ rõ tình hình kinh tế – xã hội đang có những khó khăn gay gắt.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1986"
+          },
+          {
+            "text": "Hệ thống xã hội chủ nghĩa ở Liên Xô và Đông Âu lâm vào khủng hoảng, khó khăn nghiêm trọng.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Cuối thập niên 1980"
+          },
+          {
+            "text": "Bộ Chính trị ra Nghị quyết số 25-NQ/TW về đổi mới và tăng cường sự lãnh đạo của Đảng đối với công tác thanh niên.",
+            "sources": [
+              "S03"
+            ],
+            "date": "9/2/1991"
+          }
+        ]
+      },
+      "eras": [
+        "e5"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S07",
+        "S15"
+      ],
+      "documents": [
+        "D08",
+        "D09"
+      ]
+    },
+    {
+      "slug": "do-muoi",
+      "name": "Đỗ Mười",
+      "initials": "ĐM",
+      "order": 9,
+      "summary": "Đỗ Mười · Tổng Bí thư Ban Chấp hành Trung ương.",
+      "fields": {
+        "realName": {
+          "text": "Nguyễn Duy Cống",
+          "sources": [
+            "S02"
+          ]
+        },
+        "birth": {
+          "text": "2/2/1917",
+          "sources": [
+            "S02"
+          ]
+        },
+        "death": {
+          "text": "1/10/2018",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Đông Mỹ, huyện Thanh Trì, thành phố Hà Nội",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "6/1939 — được kết nạp vào Đảng Cộng sản Đông Dương",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư Ban Chấp hành Trung ương",
+          "start": "6/1991",
+          "end": "12/1997",
+          "startYear": 1991.48,
+          "endYear": 1997.98,
+          "congress": [
+            "VII",
+            "VIII"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S01"
+          ],
+          "appointment": "Được bầu tại Đại hội VII (6/1991), bầu lại tại Đại hội VIII (6/1996); tại Hội nghị Trung ương 4 khóa VIII (12/1997), Ban Chấp hành Trung ương chấp thuận đề nghị thôi giữ chức"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Tham gia phong trào Mặt trận Bình dân.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1936"
+        },
+        {
+          "text": "Được kết nạp vào Đảng Cộng sản Đông Dương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1939"
+        },
+        {
+          "text": "Bị bắt, bị kết án 10 năm tù.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1941"
+        },
+        {
+          "text": "Vượt ngục; lãnh đạo khởi nghĩa giành chính quyền ở Hà Đông.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1945"
+        },
+        {
+          "text": "Bí thư Tỉnh ủy Hà Đông.",
+          "sources": [
+            "S02"
+          ],
+          "date": "Sau 8/1945"
+        },
+        {
+          "text": "Bí thư Thành ủy kiêm Chủ tịch Ủy ban Quân chính thành phố Hải Phòng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1955"
+        },
+        {
+          "text": "Ủy viên dự khuyết Ban Chấp hành Trung ương khóa II.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1955"
+        },
+        {
+          "text": "Bộ trưởng Nội thương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1958"
+        },
+        {
+          "text": "Phó Thủ tướng kiêm Chủ nhiệm Ủy ban Kiến thiết cơ bản Nhà nước.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1969–1973"
+        },
+        {
+          "text": "Được Ban Chấp hành Trung ương khóa IV bầu làm Ủy viên dự khuyết Bộ Chính trị.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1976"
+        },
+        {
+          "text": "Được Ban Chấp hành Trung ương khóa V bầu vào Bộ Chính trị.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1982"
+        },
+        {
+          "text": "Được phân công làm Thường trực Ban Bí thư khóa VI.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1986"
+        },
+        {
+          "text": "Chủ tịch Hội đồng Bộ trưởng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1988"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Đại hội VII.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "6/1991"
+        },
+        {
+          "text": "Thăm chính thức Trung Quốc cùng Chủ tịch Hội đồng Bộ trưởng Võ Văn Kiệt.",
+          "sources": [
+            "S03"
+          ],
+          "date": "5–11/11/1991"
+        },
+        {
+          "text": "Đại hội VIII bầu lại làm Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "6/1996"
+        },
+        {
+          "text": "Thôi giữ chức Tổng Bí thư; được suy tôn làm Cố vấn Ban Chấp hành Trung ương.",
+          "sources": [
+            "S02",
+            "S03"
+          ],
+          "date": "12/1997"
+        },
+        {
+          "text": "Từ trần.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/10/2018"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội VII thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội và Chiến lược ổn định và phát triển kinh tế – xã hội đến năm 2000.",
+          "sources": [
+            "S03"
+          ],
+          "date": "6/1991"
+        },
+        {
+          "text": "Hiệp định giải tán Liên bang Xô viết được ký kết (21/12/1991); ngày 25/12/1991 M.X. Gorbachev tuyên bố từ chức Tổng thống Liên Xô.",
+          "sources": [
+            "S03"
+          ],
+          "date": "12/1991"
+        },
+        {
+          "text": "Việt Nam bình thường hóa quan hệ với Hoa Kỳ và gia nhập ASEAN.",
+          "sources": [
+            "S03"
+          ],
+          "date": "7/1995"
+        },
+        {
+          "text": "Đại hội VIII tổng kết 10 năm đổi mới, xác định chuyển sang thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước.",
+          "sources": [
+            "S03"
+          ],
+          "date": "28/6–1/7/1996"
+        },
+        {
+          "text": "Quốc hội khóa IX thông qua Luật Đầu tư nước ngoài tại Việt Nam; ngày 28/11/1996 thành lập Ủy ban Chứng khoán Nhà nước.",
+          "sources": [
+            "S03"
+          ],
+          "date": "11/1996"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bộ trưởng Nội thương (1958)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Phó Thủ tướng kiêm Chủ nhiệm Ủy ban Kiến thiết cơ bản Nhà nước (1969–1973); Phó Thủ tướng kiêm Bộ trưởng Xây dựng (1973)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Thường trực Ban Bí thư khóa VI",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch Hội đồng Bộ trưởng (nay là Thủ tướng Chính phủ), 6/1988–6/1991",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Cố vấn Ban Chấp hành Trung ương (1997–2000)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1991–1997",
+        "events": [
+          {
+            "text": "Hệ thống các nước xã hội chủ nghĩa lâm vào khủng hoảng toàn diện; Chiến tranh lạnh chấm dứt.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Đầu thập niên 1990"
+          },
+          {
+            "text": "Tại thời điểm Đại hội VII, sự bao vây, cấm vận kinh tế đối với Việt Nam vẫn chưa được xóa bỏ.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1991"
+          },
+          {
+            "text": "Đại hội VIII đánh giá nước ta đã ra khỏi khủng hoảng kinh tế – xã hội, nhưng một số mặt còn chưa vững chắc.",
+            "sources": [
+              "S03"
+            ],
+            "date": "1996"
+          }
+        ]
+      },
+      "eras": [
+        "e5"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "documents": [
+        "D10",
+        "D11"
+      ]
+    },
+    {
+      "slug": "le-kha-phieu",
+      "name": "Lê Khả Phiêu",
+      "initials": "LKP",
+      "order": 10,
+      "summary": "Lê Khả Phiêu · Tổng Bí thư Ban Chấp hành Trung ương.",
+      "fields": {
+        "birth": {
+          "text": "27/12/1931",
+          "sources": [
+            "S02",
+            "S14"
+          ]
+        },
+        "death": {
+          "text": "7/8/2020 — tại Hà Nội",
+          "sources": [
+            "S02",
+            "S14"
+          ]
+        },
+        "hometown": {
+          "text": "xã Đông Khê, huyện Đông Sơn, tỉnh Thanh Hoá",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "19/6/1949",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư Ban Chấp hành Trung ương",
+          "start": "26/12/1997",
+          "end": "4/2001",
+          "startYear": 1997.98,
+          "endYear": 2001.3,
+          "congress": [
+            "VIII"
+          ],
+          "sources": [
+            "S02",
+            "S14",
+            "S03",
+            "S01"
+          ],
+          "appointment": "Được bầu tại Hội nghị Trung ương lần thứ 4 Ban Chấp hành Trung ương khóa VIII"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Dạy bình dân học vụ ở xã.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1947–1949"
+        },
+        {
+          "text": "Được kết nạp vào Đảng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "19/6/1949"
+        },
+        {
+          "text": "Nhập ngũ, chiến đấu trong Trung đoàn 66, Đại đoàn 304.",
+          "sources": [
+            "S02"
+          ],
+          "date": "5/1950–8/1954"
+        },
+        {
+          "text": "Vào chiến trường Trị Thiên, làm Chính ủy Trung đoàn 9.",
+          "sources": [
+            "S02"
+          ],
+          "date": "7/1967"
+        },
+        {
+          "text": "Được thăng quân hàm Thiếu tướng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "4/1984"
+        },
+        {
+          "text": "Được thăng quân hàm Trung tướng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1988"
+        },
+        {
+          "text": "Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam.",
+          "sources": [
+            "S02"
+          ],
+          "date": "8/1988"
+        },
+        {
+          "text": "Ủy viên Trung ương; Chủ nhiệm Tổng cục Chính trị.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1991"
+        },
+        {
+          "text": "Tại Hội nghị Trung ương 3 khóa VII: được bầu vào Ban Bí thư, phân công Thường trực Ban Bí thư; thăng Thượng tướng (theo Báo Nhân Dân).",
+          "sources": [
+            "S02",
+            "S14"
+          ],
+          "difference": {
+            "kind": "conflict",
+            "label": "Cương vị được bầu tháng 6/1992",
+            "variants": [
+              {
+                "t": "Tại Hội nghị Trung ương 3 khóa VII: được bầu vào Ban Bí thư, phân công Thường trực Ban Bí thư; đến 1/1994 mới được bầu vào Bộ Chính trị, đến 6/1996 làm Thường trực Bộ Chính trị",
+                "s": [
+                  "S02"
+                ]
+              },
+              {
+                "t": "Tháng 6/1992, tại Hội nghị Trung ương 3 khóa VII: được bầu vào Ban Chấp hành Trung ương, Ủy viên Bộ Chính trị, Ủy viên Thường vụ Bộ Chính trị, Thường trực Bộ Chính trị (đối chiếu qua trích đoạn kết quả tìm kiếm)",
+                "s": [
+                  "S14"
+                ]
+              }
+            ]
+          },
+          "date": "6/1992"
+        },
+        {
+          "text": "Được bầu vào Bộ Chính trị tại Hội nghị toàn quốc giữa nhiệm kỳ của Ban Chấp hành Trung ương khóa VII.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/1994"
+        },
+        {
+          "text": "Thường trực Bộ Chính trị.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1996"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Hội nghị Trung ương 4 khóa VIII.",
+          "sources": [
+            "S02",
+            "S14",
+            "S03"
+          ],
+          "date": "26/12/1997"
+        },
+        {
+          "text": "Kết thúc nhiệm kỳ Tổng Bí thư khóa VIII.",
+          "sources": [
+            "S02",
+            "S01"
+          ],
+          "date": "4/2001"
+        },
+        {
+          "text": "Nghỉ công tác theo chế độ.",
+          "sources": [
+            "S02"
+          ],
+          "date": "10/2006"
+        },
+        {
+          "text": "Từ trần tại Hà Nội.",
+          "sources": [
+            "S02",
+            "S14"
+          ],
+          "date": "7/8/2020"
+        }
+      ],
+      "events": [
+        {
+          "text": "Việt Nam và Hoa Kỳ ký Hiệp định thương mại (có hiệu lực từ 11/12/2001).",
+          "sources": [
+            "S03"
+          ],
+          "date": "13/7/2000"
+        },
+        {
+          "text": "Trung tâm giao dịch chứng khoán tại Thành phố Hồ Chí Minh đi vào hoạt động.",
+          "sources": [
+            "S03"
+          ],
+          "date": "20/7/2000"
+        },
+        {
+          "text": "Tổng thống Hoa Kỳ Bill Clinton thăm chính thức Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": "16–19/11/2000"
+        },
+        {
+          "text": "Việt Nam và Trung Quốc ký Hiệp định phân định lãnh hải, vùng đặc quyền kinh tế và thềm lục địa trong Vịnh Bắc Bộ.",
+          "sources": [
+            "S03"
+          ],
+          "date": "12/2000"
+        },
+        {
+          "text": "Tuyên bố hoàn thành phổ cập giáo dục tiểu học và xóa mù chữ trong cả nước.",
+          "sources": [
+            "S03"
+          ],
+          "date": "28/12/2000"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam (từ 6/1991)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Thường trực Ban Bí thư (từ 6/1992); thăng quân hàm Thượng tướng (6/1992)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Ủy viên Thường vụ Bộ Chính trị, Thường trực Bộ Chính trị kiêm Trưởng Ban Bảo vệ chính trị nội bộ Trung ương (từ 6/1996)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại biểu Quốc hội khóa IX, X",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 1997–2001",
+        "events": [
+          {
+            "text": "Toàn cầu hóa diễn ra mạnh mẽ; cách mạng khoa học và công nghệ, nhất là công nghệ thông tin và công nghệ sinh học, phát triển nhảy vọt.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Cuối thế kỷ XX"
+          },
+          {
+            "text": "Theo daihoidang.vn, bên cạnh thành tựu sau 15 năm đổi mới, đất nước còn phải đối phó với những thách thức: tụt hậu xa hơn về kinh tế so với nhiều nước trong khu vực và trên thế giới, chệch hướng xã hội chủ nghĩa, nạn tham nhũng quan liêu, “diễn biến hòa bình” do các thế lực thù địch gây ra.",
+            "sources": [
+              "S03"
+            ],
+            "date": "2001"
+          }
+        ]
+      },
+      "eras": [
+        "e5"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S14"
+      ],
+      "documents": [
+        "D12"
+      ]
+    },
+    {
+      "slug": "nong-duc-manh",
+      "name": "Nông Đức Mạnh",
+      "initials": "NĐM",
+      "order": 11,
+      "summary": "Nông Đức Mạnh · Tổng Bí thư Ban Chấp hành Trung ương.",
+      "fields": {
+        "birth": {
+          "text": "11/9/1940",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Cường Lợi, huyện Na Rì, tỉnh Bắc Kạn",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Tày",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "5/7/1963 — gia nhập Đảng Lao động Việt Nam",
+          "sources": [
+            "S02"
+          ]
+        },
+        "education": {
+          "text": "Trường Trung cấp Nông lâm Trung ương (1958–1961); Học viện Lâm nghiệp Lêningrát, Liên Xô (1966–1971); Trường Đảng cao cấp Nguyễn Ái Quốc (1974–1976)",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư Ban Chấp hành Trung ương",
+          "start": "4/2001",
+          "end": "1/2011",
+          "startYear": 2001.3,
+          "endYear": 2011.05,
+          "congress": [
+            "IX",
+            "X"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S01"
+          ],
+          "appointment": "Được bầu tại Đại hội IX (4/2001); bầu lại tại Đại hội X (4/2006)"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Tham gia cách mạng; học Trường Trung cấp Nông lâm Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1958"
+        },
+        {
+          "text": "Gia nhập Đảng Lao động Việt Nam.",
+          "sources": [
+            "S02"
+          ],
+          "date": "5/7/1963"
+        },
+        {
+          "text": "Sinh viên Học viện Lâm nghiệp Lêningrát (Liên Xô).",
+          "sources": [
+            "S02"
+          ],
+          "date": "1966–1971"
+        },
+        {
+          "text": "Giám đốc Lâm trường Phú Lương (Bắc Thái).",
+          "sources": [
+            "S02"
+          ],
+          "date": "1973–1974"
+        },
+        {
+          "text": "Phó Bí thư, Chủ tịch Ủy ban nhân dân tỉnh Bắc Thái.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1984–10/1986"
+        },
+        {
+          "text": "Bí thư Tỉnh ủy Bắc Thái.",
+          "sources": [
+            "S02"
+          ],
+          "date": "11/1986–2/1989"
+        },
+        {
+          "text": "Ủy viên dự khuyết Ban Chấp hành Trung ương (Đại hội VI).",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1986"
+        },
+        {
+          "text": "Ủy viên chính thức Ban Chấp hành Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "3/1989"
+        },
+        {
+          "text": "Trưởng Ban Dân tộc Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "8/1989"
+        },
+        {
+          "text": "Ủy viên Bộ Chính trị (Đại hội VII).",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/1991"
+        },
+        {
+          "text": "Chủ tịch Quốc hội khóa IX.",
+          "sources": [
+            "S02"
+          ],
+          "date": "9/1992"
+        },
+        {
+          "text": "Chủ tịch Quốc hội khóa X.",
+          "sources": [
+            "S02"
+          ],
+          "date": "9/1997"
+        },
+        {
+          "text": "Thường vụ Bộ Chính trị.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/1998"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Đại hội IX.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "4/2001"
+        },
+        {
+          "text": "Đại hội X bầu lại làm Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "4/2006"
+        },
+        {
+          "text": "Kết thúc nhiệm kỳ Tổng Bí thư.",
+          "sources": [
+            "S02",
+            "S01"
+          ],
+          "date": "1/2011"
+        },
+        {
+          "text": "Được trao Huy hiệu 60 năm tuổi Đảng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "29/9/2023"
+        },
+        {
+          "text": "Được trao tặng Huân chương Sao Vàng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "20/1/2025"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội IX thông qua Chiến lược phát triển kinh tế – xã hội 10 năm 2001–2010.",
+          "sources": [
+            "S03"
+          ],
+          "date": "4/2001"
+        },
+        {
+          "text": "Hiệp định Thương mại Việt – Mỹ chính thức có hiệu lực.",
+          "sources": [
+            "S03"
+          ],
+          "date": "11/12/2001"
+        },
+        {
+          "text": "Quốc hội khóa XI thông qua Luật Phòng, chống tham nhũng và Luật Thực hành tiết kiệm, chống lãng phí.",
+          "sources": [
+            "S03"
+          ],
+          "date": "29/11/2005"
+        },
+        {
+          "text": "Việt Nam trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới (WTO).",
+          "sources": [
+            "S03"
+          ],
+          "date": "7/11/2006"
+        },
+        {
+          "text": "Việt Nam tổ chức Tuần lễ cấp cao APEC-14.",
+          "sources": [
+            "S03"
+          ],
+          "date": "12–19/11/2006"
+        },
+        {
+          "text": "Việt Nam kết thúc Năm Chủ tịch ASEAN.",
+          "sources": [
+            "S03"
+          ],
+          "date": "31/12/2010"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bí thư Tỉnh ủy Bắc Thái (11/1986–2/1989)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Trưởng Ban Dân tộc Trung ương (từ 8/1989)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch Quốc hội khóa IX (từ 9/1992) và khóa X (từ 9/1997)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Thường vụ Bộ Chính trị (từ 1/1998)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 2001–2011",
+        "events": [
+          {
+            "text": "Toàn cầu hóa kinh tế vừa tạo cơ hội phát triển vừa đặt ra nhiều thách thức; cạnh tranh kinh tế – thương mại giữa các nước ngày càng gay gắt.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Giữa thập niên 2000"
+          },
+          {
+            "text": "Khủng hoảng tài chính từ Mỹ lan rộng thành khủng hoảng tài chính và suy thoái kinh tế toàn cầu.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Cuối thập niên 2000"
+          },
+          {
+            "text": "Hạ viện và Thượng viện Mỹ thông qua Quy chế thương mại bình thường vĩnh viễn (PNTR) cho Việt Nam.",
+            "sources": [
+              "S03"
+            ],
+            "date": "8–9/12/2006"
+          }
+        ]
+      },
+      "eras": [
+        "e5"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "documents": [
+        "D12",
+        "D13"
+      ]
+    },
+    {
+      "slug": "nguyen-phu-trong",
+      "name": "Nguyễn Phú Trọng",
+      "initials": "NPT",
+      "order": 12,
+      "summary": "Nguyễn Phú Trọng · Tổng Bí thư Ban Chấp hành Trung ương.",
+      "fields": {
+        "birth": {
+          "text": "14/4/1944",
+          "sources": [
+            "S02"
+          ]
+        },
+        "death": {
+          "text": "19/7/2024",
+          "sources": [
+            "S02"
+          ]
+        },
+        "hometown": {
+          "text": "xã Đông Hội, huyện Đông Anh, thành phố Hà Nội",
+          "sources": [
+            "S02"
+          ]
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "19/12/1967",
+          "sources": [
+            "S02"
+          ]
+        },
+        "education": {
+          "text": "Giáo sư, Tiến sĩ Chính trị học (chuyên ngành Xây dựng Đảng), Cử nhân Ngữ văn",
+          "sources": [
+            "S02"
+          ]
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư Ban Chấp hành Trung ương",
+          "start": "1/2011",
+          "end": "19/7/2024",
+          "startYear": 2011.05,
+          "endYear": 2024.55,
+          "congress": [
+            "XI",
+            "XII",
+            "XIII"
+          ],
+          "sources": [
+            "S02",
+            "S03",
+            "S07",
+            "S01"
+          ],
+          "appointment": "Được bầu tại Đại hội XI (1/2011); tiếp tục được bầu tại Đại hội XII (1/2016) và Đại hội XIII (2021)"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Cán bộ Phòng Tư liệu Tạp chí Học tập; được kết nạp vào Đảng ngày 19/12/1967.",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1967"
+        },
+        {
+          "text": "Nghiên cứu sinh tại Trường Đảng cao cấp Nguyễn Ái Quốc.",
+          "sources": [
+            "S02"
+          ],
+          "date": "9/1973–4/1976"
+        },
+        {
+          "text": "Thực tập sinh, bảo vệ luận án tại Viện Hàn lâm Khoa học xã hội Liên Xô.",
+          "sources": [
+            "S02"
+          ],
+          "date": "9/1981–7/1983"
+        },
+        {
+          "text": "Tổng Biên tập Tạp chí Cộng sản.",
+          "sources": [
+            "S02"
+          ],
+          "date": "8/1991–8/1996"
+        },
+        {
+          "text": "Được bầu vào Ban Chấp hành Trung ương.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/1994"
+        },
+        {
+          "text": "Được bầu vào Bộ Chính trị (Hội nghị Trung ương 4 khóa VIII).",
+          "sources": [
+            "S02"
+          ],
+          "date": "12/1997"
+        },
+        {
+          "text": "Bí thư Thành ủy Hà Nội.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/2000–6/2006"
+        },
+        {
+          "text": "Chủ tịch Quốc hội khóa XI, XII.",
+          "sources": [
+            "S02"
+          ],
+          "date": "6/2006–7/2011"
+        },
+        {
+          "text": "Được bầu làm Tổng Bí thư tại Đại hội XI.",
+          "sources": [
+            "S02",
+            "S03",
+            "S07"
+          ],
+          "date": "1/2011"
+        },
+        {
+          "text": "Trưởng Ban Chỉ đạo Trung ương về phòng, chống tham nhũng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "2/2013"
+        },
+        {
+          "text": "Thăm chính thức Hoa Kỳ.",
+          "sources": [
+            "S03"
+          ],
+          "date": "6–10/7/2015"
+        },
+        {
+          "text": "Tiếp tục được bầu làm Tổng Bí thư tại Đại hội XII.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": "1/2016"
+        },
+        {
+          "text": "Tổng Bí thư, Chủ tịch nước.",
+          "sources": [
+            "S02"
+          ],
+          "date": "10/2018–4/2021"
+        },
+        {
+          "text": "Tiếp tục được bầu làm Tổng Bí thư tại Đại hội XIII.",
+          "sources": [
+            "S03"
+          ],
+          "date": "2021"
+        },
+        {
+          "text": "Được trao tặng Huân chương Sao Vàng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "18/7/2024"
+        },
+        {
+          "text": "Từ trần.",
+          "sources": [
+            "S02"
+          ],
+          "date": "19/7/2024"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội XI thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) và Chiến lược phát triển kinh tế – xã hội 2011–2020.",
+          "sources": [
+            "S03"
+          ],
+          "date": "1/2011"
+        },
+        {
+          "text": "Tổng thống Hoa Kỳ Barack Obama thăm chính thức Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": "23–25/5/2016"
+        },
+        {
+          "text": "Ban Chấp hành Trung ương ra Nghị quyết về tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng, chính trị, đạo đức, lối sống, những biểu hiện “tự diễn biến”, “tự chuyển hóa” trong nội bộ.",
+          "sources": [
+            "S03"
+          ],
+          "date": "30/10/2016"
+        },
+        {
+          "text": "Việt Nam đảm nhiệm vai trò Chủ tịch ASEAN 2020 và là Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc nhiệm kỳ 2020–2021.",
+          "sources": [
+            "S03"
+          ],
+          "date": "2020"
+        },
+        {
+          "text": "Thủ tướng Chính phủ ký quyết định công bố dịch COVID-19 trên toàn quốc.",
+          "sources": [
+            "S03"
+          ],
+          "date": "1/4/2020"
+        },
+        {
+          "text": "Đại hội XIII xác định mục tiêu đến năm 2045 trở thành nước phát triển, thu nhập cao.",
+          "sources": [
+            "S03"
+          ],
+          "date": "25/1–1/2/2021"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Tổng Biên tập Tạp chí Cộng sản (8/1991–8/1996)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Bí thư Thành ủy Hà Nội (1/2000–6/2006)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch Quốc hội khóa XI, XII (6/2006–7/2011)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Bí thư Quân ủy Trung ương (1/2011–7/2024)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Trưởng Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, tiêu cực (2/2013–7/2024)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam (10/2018–4/2021)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 2011–2024",
+        "events": [
+          {
+            "text": "Tình hình thế giới diễn biến phức tạp; tranh chấp chủ quyền, lãnh thổ, đặc biệt trên Biển Đông, diễn biến phức tạp.",
+            "sources": [
+              "S03"
+            ],
+            "date": "Thập niên 2010"
+          },
+          {
+            "text": "Việt Nam kết thúc đàm phán 4 hiệp định thương mại tự do, đưa tổng số FTA tham gia lên 14.",
+            "sources": [
+              "S03"
+            ],
+            "date": "2015"
+          },
+          {
+            "text": "Cộng đồng ASEAN chính thức ra đời.",
+            "sources": [
+              "S03"
+            ],
+            "date": "31/12/2015"
+          },
+          {
+            "text": "Đại dịch COVID-19 tác động sâu rộng đến kinh tế – xã hội.",
+            "sources": [
+              "S03"
+            ],
+            "date": "2020"
+          }
+        ]
+      },
+      "eras": [
+        "e5"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "documents": [
+        "D14",
+        "D15"
+      ]
+    },
+    {
+      "slug": "to-lam",
+      "name": "Tô Lâm",
+      "initials": "TL",
+      "order": 13,
+      "summary": "Tô Lâm · Tổng Bí thư Ban Chấp hành Trung ương.",
+      "fields": {
+        "birth": {
+          "text": "10/7/1957",
+          "sources": [
+            "S02",
+            "S06"
+          ]
+        },
+        "hometown": {
+          "text": "xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên",
+          "sources": [
+            "S02"
+          ],
+          "difference": {
+            "kind": "variant",
+            "label": "Cách ghi địa danh trong nguồn năm 2026",
+            "variants": [
+              {
+                "t": "Xã Nghĩa Trụ, tỉnh Hưng Yên",
+                "s": [
+                  "S06"
+                ]
+              }
+            ]
+          }
+        },
+        "ethnicity": {
+          "text": "Kinh",
+          "sources": [
+            "S02"
+          ]
+        },
+        "partyJoin": {
+          "text": "22/8/1981",
+          "sources": [
+            "S02",
+            "S06"
+          ]
+        },
+        "education": {
+          "text": "Giáo sư Khoa học An ninh; Tiến sĩ Luật học",
+          "sources": [
+            "S06"
+          ],
+          "difference": {
+            "kind": "variant",
+            "label": "Cách ghi khác",
+            "variants": [
+              {
+                "t": "Giáo sư, Tiến sĩ Luật học (nguồn công bố 1/2025)",
+                "s": [
+                  "S02"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "aliases": [],
+      "terms": [
+        {
+          "kind": "tbt",
+          "title": "Tổng Bí thư Ban Chấp hành Trung ương",
+          "start": "3/8/2024",
+          "end": "Nay",
+          "startYear": 2024.59,
+          "endYear": 2026.84,
+          "congress": [
+            "XIII",
+            "XIV"
+          ],
+          "sources": [
+            "S02",
+            "S06",
+            "S08",
+            "S01",
+            "S19"
+          ],
+          "appointment": "Ban Chấp hành Trung ương khóa XIII bầu ngày 3/8/2024; Hội nghị lần thứ nhất Ban Chấp hành Trung ương khóa XIV (23/1/2026) bầu tiếp tục giữ chức"
+        }
+      ],
+      "timeline": [
+        {
+          "text": "Học Trường Đại học An ninh nhân dân.",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "1974–1979"
+        },
+        {
+          "text": "Bắt đầu công tác tại Bộ Nội vụ (nay là Bộ Công an).",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "1979"
+        },
+        {
+          "text": "Vào Đảng.",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "22/8/1981"
+        },
+        {
+          "text": "Cục trưởng thuộc Tổng cục An ninh.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1997–2006"
+        },
+        {
+          "text": "Được thăng cấp bậc hàm Thiếu tướng.",
+          "sources": [
+            "S02"
+          ],
+          "date": "4/2007"
+        },
+        {
+          "text": "Thứ trưởng Công an.",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "8/2010"
+        },
+        {
+          "text": "Ủy viên Trung ương Đảng khóa XI.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/2011"
+        },
+        {
+          "text": "Ủy viên Bộ Chính trị khóa XII.",
+          "sources": [
+            "S02"
+          ],
+          "date": "1/2016"
+        },
+        {
+          "text": "Bí thư Đảng ủy Công an Trung ương, Bộ trưởng Công an.",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "4/2016"
+        },
+        {
+          "text": "Được thăng cấp bậc hàm Đại tướng.",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "1/2019"
+        },
+        {
+          "text": "Được Quốc hội khóa XV bầu làm Chủ tịch nước.",
+          "sources": [
+            "S02"
+          ],
+          "date": "22/5/2024"
+        },
+        {
+          "text": "Được Ban Chấp hành Trung ương bầu làm Tổng Bí thư khóa XIII.",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": "3/8/2024"
+        },
+        {
+          "text": "Thôi giữ chức Chủ tịch nước.",
+          "sources": [
+            "S02"
+          ],
+          "date": "21/10/2024"
+        },
+        {
+          "text": "Được bầu vào Ban Chấp hành Trung ương khóa XIV tại Đại hội XIV.",
+          "sources": [
+            "S06",
+            "S19"
+          ],
+          "date": "22/1/2026"
+        },
+        {
+          "text": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương khóa XIV bầu tiếp tục giữ chức Tổng Bí thư.",
+          "sources": [
+            "S06",
+            "S08"
+          ],
+          "date": "23/1/2026"
+        },
+        {
+          "text": "Được Quốc hội khóa XVI bầu giữ chức Chủ tịch nước nhiệm kỳ 2026–2031.",
+          "sources": [
+            "S06",
+            "S17",
+            "S18"
+          ],
+          "date": "7/4/2026"
+        },
+        {
+          "text": "Tái cử Bí thư Quân ủy Trung ương nhiệm kỳ 2025–2030.",
+          "sources": [
+            "S06"
+          ],
+          "date": "13/4/2026"
+        },
+        {
+          "text": "Chủ tịch danh dự Hội Chữ thập đỏ Việt Nam nhiệm kỳ 2026–2031.",
+          "sources": [
+            "S06"
+          ],
+          "date": "28/7/2026"
+        }
+      ],
+      "events": [
+        {
+          "text": "Đại hội XIV diễn ra tại Trung tâm Hội nghị Quốc gia, Hà Nội, với 1.586 đại biểu thay mặt hơn 5,6 triệu đảng viên; Đại hội kết thúc sớm 1,5 ngày so với kế hoạch.",
+          "sources": [
+            "S09",
+            "S11",
+            "S08"
+          ],
+          "date": "19–23/1/2026"
+        },
+        {
+          "text": "Nghị quyết Đại hội XIV xác định mục tiêu đến năm 2030 trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao; đến năm 2045 trở thành nước phát triển, thu nhập cao.",
+          "sources": [
+            "S09"
+          ],
+          "date": "1/2026"
+        },
+        {
+          "text": "Đại hội XIV giao Ban Chấp hành Trung ương khóa XIV tổng kết 100 năm Đảng lãnh đạo cách mạng Việt Nam (1930–2030) và tổng kết 40 năm thực hiện Cương lĩnh.",
+          "sources": [
+            "S08",
+            "S09"
+          ],
+          "date": "1/2026"
+        }
+      ],
+      "positions": [
+        {
+          "text": "Bí thư Đảng ủy Công an Trung ương, Bộ trưởng Công an (4/2016–5/2024)",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại tướng Công an nhân dân (1/2019)",
+          "sources": [
+            "S02",
+            "S06"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch nước, Chủ tịch Hội đồng Quốc phòng và An ninh (22/5/2024–21/10/2024)",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Bí thư Quân ủy Trung ương (từ 8/2024; tái cử 13/4/2026, nhiệm kỳ 2025–2030)",
+          "sources": [
+            "S06"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Trưởng Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, lãng phí, tiêu cực",
+          "sources": [
+            "S06"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam nhiệm kỳ 2026–2031 (từ 7/4/2026)",
+          "sources": [
+            "S06",
+            "S17",
+            "S18"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại biểu Quốc hội khóa XIV, XV, XVI",
+          "sources": [
+            "S06"
+          ],
+          "date": ""
+        }
+      ],
+      "context": {
+        "title": "Việt Nam trong giai đoạn 2024–2026",
+        "events": [
+          {
+            "text": "Nghị quyết Đại hội XIV ghi nhận nhiệm kỳ khóa XIII diễn ra trong bối cảnh có đại dịch COVID-19, kinh tế thế giới suy giảm, xung đột địa chính trị, chiến tranh thương mại; công nghệ số và trí tuệ nhân tạo phát triển nhanh.",
+            "sources": [
+              "S09"
+            ],
+            "date": "2021–2026"
+          },
+          {
+            "text": "Nghị quyết Đại hội XIV đánh giá cuộc cách mạng về sắp xếp tổ chức bộ máy của hệ thống chính trị theo hướng “tinh, gọn, mạnh, hiệu năng, hiệu lực, hiệu quả” đã đạt được những kết quả mang tính đột phá; Nghị quyết nêu yêu cầu đổi mới, hoàn thiện thể chế phù hợp với mô hình chính quyền 3 cấp.",
+            "sources": [
+              "S09"
+            ],
+            "date": "Nhiệm kỳ khóa XIII"
+          },
+          {
+            "text": "Đại hội XIV đồng ý không bổ sung, sửa đổi Điều lệ Đảng hiện hành; giao Trung ương chuẩn bị đề xuất bổ sung, sửa đổi Điều lệ cùng Cương lĩnh tại Đại hội XV, vào dịp kỷ niệm 100 năm Ngày thành lập Đảng.",
+            "sources": [
+              "S09"
+            ],
+            "date": "1/2026"
+          }
+        ]
+      },
+      "eras": [
+        "e5"
+      ],
+      "sources": [
+        "S01",
+        "S02",
+        "S06",
+        "S08",
+        "S09",
+        "S11",
+        "S17",
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "documents": [
+        "D16",
+        "D17"
+      ]
+    }
+  ],
+  "congresses": [
+    {
+      "id": "thanh-lap",
+      "order": 0,
+      "ordinal": "",
+      "name": "Hội nghị thành lập Đảng Cộng sản Việt Nam",
+      "year": 1930.05,
+      "time": {
+        "text": "Từ ngày 6/1 đến đầu tháng 2/1930",
+        "sources": [
+          "S03"
+        ],
+        "difference": {
+          "kind": "conflict",
+          "label": "Thời gian Hội nghị thành lập Đảng",
+          "variants": [
+            {
+              "t": "Từ 6/1 đến đầu tháng 2/1930 (mục Các kỳ Đại hội trên daihoidang.vn)",
+              "s": [
+                "S03"
+              ]
+            },
+            {
+              "t": "Từ ngày 3 đến 7/2/1930 (hồ sơ Hồ Chí Minh trên daihoidang.vn)",
+              "s": [
+                "S04"
+              ]
+            }
+          ]
+        }
+      },
+      "place": {
+        "text": "Hồng Kông (Trung Quốc); hồ sơ Hồ Chí Minh trên daihoidang.vn ghi: Cửu Long (Hồng Kông, Trung Quốc)",
+        "sources": [
+          "S03",
+          "S04"
+        ]
+      },
+      "theme": null,
+      "delegates": null,
+      "content": [
+        {
+          "text": "Hội nghị nhất trí hợp nhất Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng thành một đảng duy nhất lấy tên Đảng Cộng sản Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hội nghị thông qua các văn kiện: Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt, Điều lệ vắn tắt của Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hội nghị quyết định chủ trương xây dựng các tổ chức Công hội, Nông hội, Hội Phản đế.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Ngày 24/2/1930, Đông Dương Cộng sản Liên đoàn gia nhập Đảng Cộng sản Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội III (9/1960) quyết nghị “từ nay trở đi sẽ lấy ngày 3 tháng 2 dương lịch mỗi năm làm ngày kỷ niệm thành lập Đảng”.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [],
+      "documents": [
+        "D01"
+      ]
+    },
+    {
+      "id": "10-1930",
+      "order": 1,
+      "ordinal": "",
+      "name": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương",
+      "year": 1930.79,
+      "time": {
+        "text": "Từ ngày 14 đến 31/10/1930",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Hồng Kông (Hương Cảng), Trung Quốc",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": null,
+      "delegates": null,
+      "content": [
+        {
+          "text": "Hội nghị quyết định đổi tên Đảng Cộng sản Việt Nam thành Đảng Cộng sản Đông Dương.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hội nghị thông qua Luận cương chính trị của Đảng Cộng sản Đông Dương do Trần Phú khởi thảo.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "daihoidang.vn ghi hội nghị có ý nghĩa như một Đại hội và gọi đây là Hội nghị lần thứ nhất Ban Chấp hành Trung ương lâm thời.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "tran-phu"
+      ],
+      "documents": [
+        "D02"
+      ]
+    },
+    {
+      "id": "i",
+      "order": 2,
+      "ordinal": "I",
+      "name": "Đại hội đại biểu lần thứ I",
+      "year": 1935.23,
+      "time": {
+        "text": "Từ ngày 27 đến 31/3/1935",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Ma Cao (Trung Quốc)",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Chống đế quốc, chống chiến tranh",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "13 đại biểu thuộc các đảng bộ trong nước và tổ chức của Đảng hoạt động ở nước ngoài",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội nêu ba nhiệm vụ chủ yếu trước mắt: củng cố và phát triển Đảng; thu phục quảng đại quần chúng; chống chiến tranh đế quốc.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội ra các nghị quyết về vận động công nhân, nông dân, binh lính, phụ nữ, thanh niên; về liên minh phản đế; về công tác trong các dân tộc thiểu số; về đội tự vệ và cứu tế đỏ.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội thông qua Điều lệ Đảng và điều lệ các tổ chức quần chúng của Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đồng chí Nguyễn Ái Quốc được cử làm đại diện của Đảng ở Quốc tế Cộng sản.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "le-hong-phong",
+        "ha-huy-tap",
+        "nguyen-van-cu",
+        "truong-chinh"
+      ],
+      "documents": [
+        "D03"
+      ]
+    },
+    {
+      "id": "ii",
+      "order": 3,
+      "ordinal": "II",
+      "name": "Đại hội đại biểu toàn quốc lần thứ II",
+      "year": 1951.1,
+      "time": {
+        "text": "Từ ngày 11 đến 19/2/1951",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Xã Vinh Quang (nay là xã Kim Bình), huyện Chiêm Hóa, tỉnh Tuyên Quang",
+        "sources": [
+          "S03"
+        ],
+        "difference": {
+          "kind": "variant",
+          "label": "Cách ghi khác",
+          "variants": [
+            {
+              "t": "Xã Vĩnh Quang, huyện Chiêm Hóa, tỉnh Tuyên Quang",
+              "s": [
+                "S07"
+              ]
+            }
+          ]
+        }
+      },
+      "theme": {
+        "text": "Kháng chiến, kiến quốc",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "158 đại biểu",
+        "sources": [
+          "S03"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội quyết định thành lập ở mỗi nước Việt Nam, Lào, Campuchia một đảng riêng; ở Việt Nam, Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội thông qua Chính cương, Điều lệ và Tuyên ngôn của Đảng; Báo cáo chính trị do Chủ tịch Hồ Chí Minh trình bày.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hai nhiệm vụ chính được nêu: đưa kháng chiến đến thắng lợi hoàn toàn và tổ chức Đảng Lao động Việt Nam.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "ho-chi-minh",
+        "truong-chinh"
+      ],
+      "documents": [
+        "D05"
+      ]
+    },
+    {
+      "id": "iii",
+      "order": 4,
+      "ordinal": "III",
+      "name": "Đại hội đại biểu toàn quốc lần thứ III",
+      "year": 1960.68,
+      "time": {
+        "text": "Từ ngày 5 đến 10/9/1960",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh hòa bình thống nhất nước nhà",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "525 đại biểu chính thức và 51 đại biểu dự khuyết",
+        "sources": [
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội đề ra đường lối chung: đẩy mạnh cách mạng xã hội chủ nghĩa ở miền Bắc, đồng thời đẩy mạnh cách mạng dân tộc dân chủ nhân dân ở miền Nam, nhằm xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội thông qua Kế hoạch nhà nước 5 năm lần thứ nhất (1961–1965).",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội thông qua Nghị quyết về ngày thành lập Đảng và Điều lệ Đảng (sửa đổi).",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "ho-chi-minh",
+        "le-duan"
+      ],
+      "documents": [
+        "D06"
+      ]
+    },
+    {
+      "id": "iv",
+      "order": 5,
+      "ordinal": "IV",
+      "name": "Đại hội đại biểu toàn quốc lần thứ IV",
+      "year": 1976.95,
+      "time": {
+        "text": "Từ ngày 14 đến 20/12/1976",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Hoàn thành sự nghiệp thống nhất Tổ quốc, đưa cả nước đi lên chủ nghĩa xã hội",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.008 đại biểu",
+        "sources": [
+          "S03"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội xác định đường lối cách mạng xã hội chủ nghĩa trong giai đoạn mới và phương hướng, nhiệm vụ kế hoạch 5 năm 1976–1980.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội quyết định đổi tên Đảng Lao động Việt Nam thành Đảng Cộng sản Việt Nam.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội bổ sung Điều lệ Đảng, đặt lại chức vụ Tổng Bí thư thay chức Bí thư thứ nhất và quy định nhiệm kỳ của Ban Chấp hành Trung ương là 5 năm.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "le-duan"
+      ],
+      "documents": [
+        "D07"
+      ]
+    },
+    {
+      "id": "v",
+      "order": 6,
+      "ordinal": "V",
+      "name": "Đại hội đại biểu toàn quốc lần thứ V",
+      "year": 1982.22,
+      "time": {
+        "text": "Từ ngày 27 đến 31/3/1982",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.033 đại biểu",
+        "sources": [
+          "S03"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội đề ra phương hướng, nhiệm vụ, mục tiêu chủ yếu về kinh tế – xã hội từ năm 1981 đến 1985 và những năm 80.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội xác định hai nhiệm vụ chiến lược: xây dựng chủ nghĩa xã hội và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội thông qua Nghị quyết về xây dựng Đảng và bổ sung Điều lệ Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "le-duan",
+        "truong-chinh"
+      ],
+      "documents": []
+    },
+    {
+      "id": "vi",
+      "order": 7,
+      "ordinal": "VI",
+      "name": "Đại hội đại biểu toàn quốc lần thứ VI",
+      "year": 1986.96,
+      "time": {
+        "text": "Từ ngày 15 đến 18/12/1986",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Quyết tâm đổi mới",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.129 đại biểu",
+        "sources": [
+          "S03"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội đề ra đường lối đổi mới.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội xác định Đảng phải đổi mới tư duy, trước hết là tư duy kinh tế; đổi mới tổ chức, đội ngũ cán bộ, phong cách lãnh đạo và công tác.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội bổ sung và sửa đổi một số điểm cụ thể trong Điều lệ Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "nguyen-van-linh"
+      ],
+      "documents": [
+        "D08"
+      ]
+    },
+    {
+      "id": "vii",
+      "order": 8,
+      "ordinal": "VII",
+      "name": "Đại hội đại biểu toàn quốc lần thứ VII",
+      "year": 1991.48,
+      "time": {
+        "text": "Từ ngày 24 đến 27/6/1991",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Tiếp tục công cuộc đổi mới đưa đất nước tiến lên theo con đường xã hội chủ nghĩa",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.176 đại biểu",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội thông qua Chiến lược ổn định và phát triển kinh tế – xã hội đến năm 2000, Báo cáo xây dựng Đảng và sửa đổi Điều lệ Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "do-muoi"
+      ],
+      "documents": [
+        "D10"
+      ]
+    },
+    {
+      "id": "viii",
+      "order": 9,
+      "ordinal": "VIII",
+      "name": "Đại hội đại biểu toàn quốc lần thứ VIII",
+      "year": 1996.5,
+      "time": {
+        "text": "Từ ngày 28/6 đến 1/7/1996",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Tiếp tục đổi mới, thực hiện công nghiệp hóa, hiện đại hóa đất nước",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.198 đại biểu",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội tổng kết 10 năm đổi mới, đánh giá nước ta đã ra khỏi khủng hoảng kinh tế – xã hội nhưng một số mặt còn chưa vững chắc.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội xác định mục tiêu công nghiệp hóa, hiện đại hóa và bổ sung, sửa đổi Điều lệ Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "do-muoi",
+        "le-kha-phieu"
+      ],
+      "documents": [
+        "D11"
+      ]
+    },
+    {
+      "id": "ix",
+      "order": 10,
+      "ordinal": "IX",
+      "name": "Đại hội đại biểu toàn quốc lần thứ IX",
+      "year": 2001.3,
+      "time": {
+        "text": "Từ ngày 19 đến 22/4/2001",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Phát huy sức mạnh toàn dân tộc, đẩy mạnh công nghiệp hóa, hiện đại hóa",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.168 đại biểu",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội thông qua Báo cáo chính trị với tiêu đề Phát huy sức mạnh toàn dân tộc, tiếp tục đổi mới, đẩy mạnh công nghiệp hóa, hiện đại hóa, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội định ra Chiến lược phát triển kinh tế – xã hội 10 năm 2001–2010.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "nong-duc-manh"
+      ],
+      "documents": [
+        "D12"
+      ]
+    },
+    {
+      "id": "x",
+      "order": 11,
+      "ordinal": "X",
+      "name": "Đại hội đại biểu toàn quốc lần thứ X",
+      "year": 2006.3,
+      "time": {
+        "text": "Từ ngày 18 đến 25/4/2006",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Thủ đô Hà Nội",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "theme": {
+        "text": "Phát huy sức mạnh toàn dân tộc, sớm đưa nước ta ra khỏi tình trạng kém phát triển",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.176 đại biểu",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội thông qua Báo cáo chính trị đặt mục tiêu nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng, đẩy mạnh toàn diện công cuộc đổi mới, sớm đưa nước ta ra khỏi tình trạng kém phát triển.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội xác định phương hướng phát triển đất nước 5 năm 2006–2010 và bổ sung, sửa đổi một số điểm trong Điều lệ Đảng.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "nong-duc-manh"
+      ],
+      "documents": [
+        "D13"
+      ]
+    },
+    {
+      "id": "xi",
+      "order": 12,
+      "ordinal": "XI",
+      "name": "Đại hội đại biểu toàn quốc lần thứ XI",
+      "year": 2011.05,
+      "time": {
+        "text": "Từ ngày 12 đến 19/1/2011",
+        "sources": [
+          "S03"
+        ],
+        "difference": {
+          "kind": "conflict",
+          "label": "Ngày bắt đầu Đại hội",
+          "variants": [
+            {
+              "t": "12/1/2011",
+              "s": [
+                "S03"
+              ]
+            },
+            {
+              "t": "11/1/2011",
+              "s": [
+                "S07"
+              ]
+            }
+          ]
+        }
+      },
+      "place": {
+        "text": "Trung tâm Hội nghị Quốc gia, Thủ đô Hà Nội",
+        "sources": [
+          "S03"
+        ]
+      },
+      "theme": {
+        "text": "Đẩy mạnh toàn diện công cuộc đổi mới đất nước",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.377 đại biểu",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội quyết định bổ sung, phát triển Cương lĩnh năm 1991: thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011).",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội xác định Chiến lược phát triển kinh tế – xã hội 10 năm 2011–2020 và phương hướng 5 năm 2011–2015; thông qua Điều lệ Đảng (bổ sung, sửa đổi).",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "nguyen-phu-trong"
+      ],
+      "documents": [
+        "D14"
+      ]
+    },
+    {
+      "id": "xii",
+      "order": 13,
+      "ordinal": "XII",
+      "name": "Đại hội đại biểu toàn quốc lần thứ XII",
+      "year": 2016.07,
+      "time": {
+        "text": "Từ ngày 20 đến 28/1/2016",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "place": {
+        "text": "Trung tâm Hội nghị Quốc gia, Thủ đô Hà Nội",
+        "sources": [
+          "S03"
+        ]
+      },
+      "theme": {
+        "text": "Tăng cường xây dựng Đảng trong sạch, vững mạnh",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.510 đại biểu",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội xác định các nhiệm vụ trọng tâm nhiệm kỳ 2016–2020, trong đó có tăng cường xây dựng, chỉnh đốn Đảng; xây dựng tổ chức bộ máy tinh gọn; đẩy mạnh đấu tranh phòng, chống tham nhũng, lãng phí, quan liêu.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội tiếp tục thực hiện ba đột phá chiến lược: hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa; đổi mới căn bản, toàn diện giáo dục, đào tạo, phát triển nguồn nhân lực; xây dựng hệ thống kết cấu hạ tầng đồng bộ.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "nguyen-phu-trong"
+      ],
+      "documents": []
+    },
+    {
+      "id": "xiii",
+      "order": 14,
+      "ordinal": "XIII",
+      "name": "Đại hội đại biểu toàn quốc lần thứ XIII",
+      "year": 2021.08,
+      "time": {
+        "text": "Từ ngày 25/1 đến 1/2/2021",
+        "sources": [
+          "S03"
+        ]
+      },
+      "place": {
+        "text": "Trung tâm Hội nghị Quốc gia, Thủ đô Hà Nội",
+        "sources": [
+          "S03"
+        ]
+      },
+      "theme": {
+        "text": "Đoàn kết – Dân chủ – Kỷ cương – Sáng tạo – Phát triển",
+        "sources": [
+          "S03"
+        ]
+      },
+      "delegates": {
+        "text": "1.587 đại biểu",
+        "sources": [
+          "S03"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội thông qua Báo cáo chính trị, Chiến lược phát triển kinh tế – xã hội 10 năm 2021–2030 và Nghị quyết Đại hội.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Nghị quyết xác định mục tiêu: đến năm 2025 là nước đang phát triển, có công nghiệp theo hướng hiện đại; đến năm 2030 có công nghiệp hiện đại, thu nhập trung bình cao; đến năm 2045 trở thành nước phát triển, thu nhập cao.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "nguyen-phu-trong",
+        "to-lam"
+      ],
+      "documents": [
+        "D15"
+      ]
+    },
+    {
+      "id": "xiv",
+      "order": 15,
+      "ordinal": "XIV",
+      "name": "Đại hội đại biểu toàn quốc lần thứ XIV",
+      "year": 2026.06,
+      "time": {
+        "text": "Từ ngày 19 đến 23/1/2026 (khai mạc chính thức sáng 20/1/2026); Đại hội kết thúc sớm 1,5 ngày so với kế hoạch",
+        "sources": [
+          "S09",
+          "S11",
+          "S08"
+        ]
+      },
+      "place": {
+        "text": "Trung tâm Hội nghị Quốc gia, Thủ đô Hà Nội",
+        "sources": [
+          "S11"
+        ]
+      },
+      "theme": {
+        "text": "Phương châm: Đoàn kết – Dân chủ – Kỷ cương – Đột phá – Phát triển",
+        "sources": [
+          "S08"
+        ]
+      },
+      "delegates": {
+        "text": "1.586 đại biểu",
+        "sources": [
+          "S11"
+        ]
+      },
+      "content": [
+        {
+          "text": "Đại hội thông qua Báo cáo chính trị, Báo cáo tổng kết một số vấn đề lý luận và thực tiễn về công cuộc đổi mới trong 40 năm, Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng (2011–2025); đồng ý không bổ sung, sửa đổi Điều lệ Đảng hiện hành.",
+          "sources": [
+            "S09"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Nghị quyết xác định mục tiêu đến năm 2030 trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao; đến năm 2045 trở thành nước phát triển, thu nhập cao.",
+          "sources": [
+            "S09"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội giao Ban Chấp hành Trung ương khóa XIV tổng kết 100 năm Đảng lãnh đạo cách mạng Việt Nam (1930–2030) và tổng kết 40 năm thực hiện Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+          "sources": [
+            "S09"
+          ],
+          "date": ""
+        }
+      ],
+      "leaders": [
+        "to-lam"
+      ],
+      "documents": [
+        "D16",
+        "D17"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": "D01",
+      "name": "Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt, Điều lệ vắn tắt của Đảng",
+      "date": "Đầu năm 1930",
+      "issuer": "Hội nghị thành lập Đảng Cộng sản Việt Nam",
+      "description": {
+        "text": "Các văn kiện được Hội nghị thành lập Đảng thông qua; daihoidang.vn ghi đây là Cương lĩnh chính trị đầu tiên của Đảng. Hồ sơ Hồ Chí Minh trên cùng trang ghi các văn kiện do Người soạn thảo.",
+        "sources": [
+          "S03",
+          "S04"
+        ]
+      },
+      "people": [
+        "ho-chi-minh"
+      ],
+      "url": "",
+      "sources": [
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "D02",
+      "name": "Luận cương chính trị của Đảng Cộng sản Đông Dương",
+      "date": "10/1930",
+      "issuer": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương",
+      "description": {
+        "text": "Do Trần Phú khởi thảo; được Hội nghị tháng 10/1930 thông qua, cùng quyết định đổi tên Đảng thành Đảng Cộng sản Đông Dương.",
+        "sources": [
+          "S03",
+          "S02"
+        ]
+      },
+      "people": [
+        "tran-phu"
+      ],
+      "url": "",
+      "sources": [
+        "S03",
+        "S02"
+      ]
+    },
+    {
+      "id": "D03",
+      "name": "Các nghị quyết và Điều lệ Đảng thông qua tại Đại hội I",
+      "date": "3/1935",
+      "issuer": "Đại hội đại biểu lần thứ nhất của Đảng",
+      "description": {
+        "text": "Các nghị quyết về vận động công nhân, nông dân, binh lính, phụ nữ, thanh niên, về liên minh phản đế, công tác dân tộc thiểu số, đội tự vệ và cứu tế đỏ; Điều lệ Đảng và điều lệ các tổ chức quần chúng.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "le-hong-phong",
+        "ha-huy-tap"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D04",
+      "name": "Tự chỉ trích",
+      "date": "6/1939",
+      "issuer": "Tác phẩm của Tổng Bí thư Nguyễn Văn Cừ",
+      "description": {
+        "text": "Tác phẩm viết nhằm đấu tranh phê bình trong Đảng.",
+        "sources": [
+          "S02"
+        ]
+      },
+      "people": [
+        "nguyen-van-cu"
+      ],
+      "url": "",
+      "sources": [
+        "S02"
+      ]
+    },
+    {
+      "id": "D05",
+      "name": "Chính cương, Điều lệ và Tuyên ngôn của Đảng Lao động Việt Nam",
+      "date": "2/1951",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ II",
+      "description": {
+        "text": "Đại hội quyết định đưa Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam và thông qua Chính cương, Điều lệ, Tuyên ngôn của Đảng; Báo cáo chính trị do Chủ tịch Hồ Chí Minh trình bày.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "ho-chi-minh",
+        "truong-chinh"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D06",
+      "name": "Nghị quyết về ngày thành lập Đảng; Điều lệ Đảng (sửa đổi)",
+      "date": "9/1960",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ III",
+      "description": {
+        "text": "Đại hội quyết nghị “từ nay trở đi sẽ lấy ngày 3 tháng 2 dương lịch mỗi năm làm ngày kỷ niệm thành lập Đảng”; thông qua Điều lệ Đảng (sửa đổi) và Kế hoạch nhà nước 5 năm lần thứ nhất (1961–1965).",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "ho-chi-minh",
+        "le-duan"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D07",
+      "name": "Nghị quyết đổi tên Đảng Lao động Việt Nam thành Đảng Cộng sản Việt Nam; Điều lệ Đảng (bổ sung)",
+      "date": "12/1976",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ IV",
+      "description": {
+        "text": "Điều lệ bổ sung đặt lại chức vụ Tổng Bí thư thay chức Bí thư thứ nhất và quy định nhiệm kỳ của Ban Chấp hành Trung ương là 5 năm.",
+        "sources": [
+          "S03",
+          "S07"
+        ]
+      },
+      "people": [
+        "le-duan"
+      ],
+      "url": "",
+      "sources": [
+        "S03",
+        "S07"
+      ]
+    },
+    {
+      "id": "D08",
+      "name": "Văn kiện Đại hội VI — đường lối đổi mới",
+      "date": "12/1986",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ VI",
+      "description": {
+        "text": "Đại hội đề ra đường lối đổi mới; xác định Đảng phải đổi mới tư duy, trước hết là tư duy kinh tế, đổi mới tổ chức, đội ngũ cán bộ, phong cách lãnh đạo và công tác.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "nguyen-van-linh",
+        "truong-chinh"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D09",
+      "name": "Chuyên mục Những việc cần làm ngay (ký tên N.V.L)",
+      "date": "Từ 25/5/1987",
+      "issuer": "Đăng trên báo Nhân Dân",
+      "description": {
+        "text": "Chuyên mục của Tổng Bí thư Nguyễn Văn Linh, ký tên N.V.L; daihoidang.vn ghi chuyên mục khơi dậy phong trào báo chí cả nước đấu tranh đẩy lùi lãng phí, tiêu cực.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "nguyen-van-linh"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D10",
+      "name": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Cương lĩnh 1991)",
+      "date": "6/1991",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ VII",
+      "description": {
+        "text": "Đại hội thông qua Cương lĩnh, Chiến lược ổn định và phát triển kinh tế – xã hội đến năm 2000 và sửa đổi Điều lệ Đảng.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "do-muoi",
+        "nguyen-van-linh"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D11",
+      "name": "Văn kiện Đại hội VIII — đẩy mạnh công nghiệp hóa, hiện đại hóa",
+      "date": "6/1996",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ VIII",
+      "description": {
+        "text": "Tổng kết 10 năm đổi mới; xác định mục tiêu công nghiệp hóa, hiện đại hóa và bổ sung, sửa đổi Điều lệ Đảng.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "do-muoi"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D12",
+      "name": "Báo cáo chính trị Đại hội IX",
+      "date": "4/2001",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ IX",
+      "description": {
+        "text": "Báo cáo chính trị mang tiêu đề Phát huy sức mạnh toàn dân tộc, tiếp tục đổi mới, đẩy mạnh công nghiệp hóa, hiện đại hóa, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa; Đại hội định ra Chiến lược phát triển kinh tế – xã hội 2001–2010.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "nong-duc-manh",
+        "le-kha-phieu"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D13",
+      "name": "Báo cáo chính trị Đại hội X",
+      "date": "4/2006",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ X",
+      "description": {
+        "text": "Báo cáo chính trị đặt mục tiêu nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng, đẩy mạnh toàn diện công cuộc đổi mới, sớm đưa nước ta ra khỏi tình trạng kém phát triển.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "nong-duc-manh"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D14",
+      "name": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)",
+      "date": "1/2011",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ XI",
+      "description": {
+        "text": "Đại hội quyết định bổ sung, phát triển Cương lĩnh năm 1991, xác định Chiến lược phát triển kinh tế – xã hội 2011–2020 và thông qua Điều lệ Đảng (bổ sung, sửa đổi).",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "nguyen-phu-trong",
+        "nong-duc-manh"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D15",
+      "name": "Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII",
+      "date": "Đại hội XIII (25/1–1/2/2021)",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ XIII",
+      "description": {
+        "text": "Nghị quyết nêu ba đột phá chiến lược và các mục tiêu đến năm 2025, 2030, tầm nhìn đến năm 2045.",
+        "sources": [
+          "S03"
+        ]
+      },
+      "people": [
+        "nguyen-phu-trong"
+      ],
+      "url": "",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "D16",
+      "name": "Văn kiện Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "date": "Toàn văn công bố 06/02/2026",
+      "issuer": "Đại hội XIV; TTXVN giới thiệu toàn văn",
+      "description": {
+        "text": "Trang giới thiệu toàn văn một số văn kiện kèm tệp đính kèm: Báo cáo chính trị của Ban Chấp hành Trung ương khóa XIII; Báo cáo tổng kết một số vấn đề lý luận và thực tiễn về công cuộc đổi mới theo định hướng xã hội chủ nghĩa trong 40 năm qua ở Việt Nam; Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng (2011–2025) và đề xuất, định hướng bổ sung, sửa đổi Điều lệ Đảng; Phụ lục 4 và Phụ lục 5.",
+        "sources": [
+          "S10"
+        ]
+      },
+      "people": [
+        "to-lam"
+      ],
+      "url": "https://daihoidang.vn/van-kien-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post6784.html",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "id": "D17",
+      "name": "Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "date": "Thông qua 23/1/2026; toàn văn công bố 06/02/2026",
+      "issuer": "Đại hội đại biểu toàn quốc lần thứ XIV",
+      "description": {
+        "text": "Nghị quyết thông qua các báo cáo, kết quả bầu Ban Chấp hành Trung ương khóa XIV gồm 200 đồng chí và các định hướng, mục tiêu phát triển giai đoạn 2026–2030, tầm nhìn đến năm 2045.",
+        "sources": [
+          "S09",
+          "S08"
+        ]
+      },
+      "people": [
+        "to-lam"
+      ],
+      "url": "https://daihoidang.vn/toan-van-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post6782.html",
+      "sources": [
+        "S09",
+        "S08"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Tổng Bí thư (danh mục Lãnh đạo Đảng, Nhà nước)",
+      "organization": "Hệ thống Tư liệu – Văn kiện Đảng (Cổng TTĐT Đảng Cộng sản Việt Nam)",
+      "date": "Trang danh mục; siêu dữ liệu trang ghi 17/06/2025",
+      "url": "https://tulieuvankien.dangcongsan.vn/lanh-dao-dang-nha-nuoc/tong-bi-thu",
+      "accessed": "31/10/2026",
+      "group": "Tư liệu – Văn kiện Đảng",
+      "people": [
+        "do-muoi",
+        "ha-huy-tap",
+        "ho-chi-minh",
+        "le-duan",
+        "le-hong-phong",
+        "le-kha-phieu",
+        "nguyen-phu-trong",
+        "nguyen-van-cu",
+        "nguyen-van-linh",
+        "nong-duc-manh",
+        "to-lam",
+        "tran-phu",
+        "truong-chinh"
+      ],
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S02",
+      "title": "Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam qua các thời kỳ",
+      "organization": "Báo Nhân Dân (nguồn tư liệu: TTXVN)",
+      "date": "1/2025",
+      "url": "https://special.nhandan.vn/TBT-ban-chap-hanh-TU-DCS-VN-qua-cac-thoi-ky/index.html",
+      "accessed": "31/10/2026",
+      "group": "Báo Nhân Dân",
+      "people": [
+        "do-muoi",
+        "ha-huy-tap",
+        "le-duan",
+        "le-hong-phong",
+        "le-kha-phieu",
+        "nguyen-phu-trong",
+        "nguyen-van-cu",
+        "nguyen-van-linh",
+        "nong-duc-manh",
+        "to-lam",
+        "tran-phu",
+        "truong-chinh"
+      ],
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S03",
+      "title": "Các kỳ Đại hội Đảng — mục lịch sử trên chuyên trang Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "organization": "Thông tấn xã Việt Nam (chuyên trang daihoidang.vn)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://daihoidang.vn/",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "do-muoi",
+        "ha-huy-tap",
+        "ho-chi-minh",
+        "le-duan",
+        "le-hong-phong",
+        "le-kha-phieu",
+        "nguyen-phu-trong",
+        "nguyen-van-cu",
+        "nguyen-van-linh",
+        "nong-duc-manh",
+        "tran-phu",
+        "truong-chinh"
+      ],
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S04",
+      "title": "Hồ Chí Minh | Chủ tịch Đảng từ 2/1951 đến 9/1969 (hồ sơ nhân sự)",
+      "organization": "Thông tấn xã Việt Nam (chuyên trang daihoidang.vn)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://daihoidang.vn/nhan-su/ho-chi-minh-1110.html",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "ho-chi-minh",
+        "le-duan",
+        "truong-chinh"
+      ],
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S05",
+      "title": "Trần Phú | Tổng Bí thư của Đảng từ 10/1930 đến 4/1931 (hồ sơ nhân sự)",
+      "organization": "Thông tấn xã Việt Nam (chuyên trang daihoidang.vn)",
+      "date": "Trang ghi: tư liệu được biên soạn trước ngày 1/7/2025",
+      "url": "https://daihoidang.vn/nhan-su/tran-phu-1090.html",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "tran-phu"
+      ],
+      "eras": [
+        "e1"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S06",
+      "title": "Tô Lâm | Tổng Bí thư: Khóa XIII, XIV (hồ sơ nhân sự)",
+      "organization": "Thông tấn xã Việt Nam (chuyên trang daihoidang.vn)",
+      "date": "Không ghi ngày công bố (có mốc cập nhật đến 28/7/2026)",
+      "url": "https://daihoidang.vn/nhan-su/to-lam-252.html",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S07",
+      "title": "90 năm Ngày thành lập Đảng Cộng sản Việt Nam — mục Các kỳ Đại hội Đảng",
+      "organization": "VietnamPlus (Thông tấn xã Việt Nam)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://www.vietnamplus.vn/dcs90nam/",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "do-muoi",
+        "ha-huy-tap",
+        "ho-chi-minh",
+        "le-duan",
+        "le-hong-phong",
+        "nguyen-phu-trong",
+        "nguyen-van-linh",
+        "nong-duc-manh",
+        "tran-phu"
+      ],
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S08",
+      "title": "Đại hội lần thứ XIV của Đảng đã thành công rất tốt đẹp (tác giả: Tiểu Phương)",
+      "organization": "Báo Nhân Dân",
+      "date": "23/01/2026",
+      "url": "https://nhandan.vn/dai-hoi-lan-thu-xiv-cua-dang-da-thanh-cong-rat-tot-dep-post938807.html",
+      "accessed": "31/10/2026",
+      "group": "Báo Nhân Dân",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S09",
+      "title": "Toàn văn Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "organization": "TTXVN/Vietnam+ (chuyên trang daihoidang.vn)",
+      "date": "06/02/2026",
+      "url": "https://daihoidang.vn/toan-van-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post6782.html",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S10",
+      "title": "Văn kiện Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "organization": "TTXVN/Vietnam+ (chuyên trang daihoidang.vn)",
+      "date": "06/02/2026",
+      "url": "https://daihoidang.vn/van-kien-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-post6784.html",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S11",
+      "title": "Thông cáo báo chí phiên khai mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "organization": "Báo Đại biểu Nhân dân",
+      "date": "20/01/2026",
+      "url": "https://daibieunhandan.vn/thong-cao-bao-chi-phien-khai-mac-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-10404328.html",
+      "accessed": "31/10/2026",
+      "group": "Báo Đại biểu Nhân dân",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S12",
+      "title": "Đồng chí Lê Duẩn (hồ sơ Lãnh đạo Đảng, Nhà nước)",
+      "organization": "Hệ thống Tư liệu – Văn kiện Đảng (Cổng TTĐT Đảng Cộng sản Việt Nam)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://tulieuvankien.dangcongsan.vn/lanh-dao-dang-nha-nuoc/tong-bi-thu/dong-chi-le-duan-74",
+      "accessed": "31/10/2026",
+      "group": "Tư liệu – Văn kiện Đảng",
+      "people": [
+        "le-duan"
+      ],
+      "eras": [
+        "e3",
+        "e4"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S13",
+      "title": "Đồng chí Trường Chinh (hồ sơ Lãnh đạo Đảng, Nhà nước)",
+      "organization": "Hệ thống Tư liệu – Văn kiện Đảng (Cổng TTĐT Đảng Cộng sản Việt Nam)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://tulieuvankien.dangcongsan.vn/lanh-dao-dang-nha-nuoc/tong-bi-thu/dong-chi-truong-chinh-79",
+      "accessed": "31/10/2026",
+      "group": "Tư liệu – Văn kiện Đảng",
+      "people": [
+        "truong-chinh"
+      ],
+      "eras": [
+        "e1",
+        "e2",
+        "e3",
+        "e4"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S14",
+      "title": "Đồng chí Lê Khả Phiêu (hồ sơ Lãnh đạo Đảng, Nhà nước)",
+      "organization": "Hệ thống Tư liệu – Văn kiện Đảng (Cổng TTĐT Đảng Cộng sản Việt Nam)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://tulieuvankien.dangcongsan.vn/lanh-dao-dang-nha-nuoc/tong-bi-thu/dong-chi-le-kha-phieu-70",
+      "accessed": "31/10/2026",
+      "group": "Tư liệu – Văn kiện Đảng",
+      "people": [
+        "le-kha-phieu"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S15",
+      "title": "Đồng chí Nguyễn Văn Linh (hồ sơ Lãnh đạo Đảng, Nhà nước)",
+      "organization": "Hệ thống Tư liệu – Văn kiện Đảng (Cổng TTĐT Đảng Cộng sản Việt Nam)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://tulieuvankien.dangcongsan.vn/lanh-dao-dang-nha-nuoc/tong-bi-thu/dong-chi-nguyen-van-linh-73",
+      "accessed": "31/10/2026",
+      "group": "Tư liệu – Văn kiện Đảng",
+      "people": [
+        "nguyen-van-linh"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S16",
+      "title": "Đồng chí Nguyễn Văn Cừ (hồ sơ Lãnh đạo Đảng, Nhà nước)",
+      "organization": "Hệ thống Tư liệu – Văn kiện Đảng (Cổng TTĐT Đảng Cộng sản Việt Nam)",
+      "date": "Không ghi ngày công bố",
+      "url": "https://tulieuvankien.dangcongsan.vn/lanh-dao-dang-nha-nuoc/tong-bi-thu/dong-chi-nguyen-van-cu-75",
+      "accessed": "31/10/2026",
+      "group": "Tư liệu – Văn kiện Đảng",
+      "people": [
+        "nguyen-van-cu"
+      ],
+      "eras": [
+        "e1"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S17",
+      "title": "Thông qua Nghị quyết bầu Tổng Bí thư Tô Lâm giữ chức Chủ tịch nước khoá XVI",
+      "organization": "VietnamPlus (Thông tấn xã Việt Nam)",
+      "date": "Không xác định được từ trích đoạn",
+      "url": "https://www.vietnamplus.vn/thong-qua-nghi-quyet-bau-tong-bi-thu-to-lam-giu-chuc-chu-tich-nuoc-khoa-xvi-post1103309.vnp",
+      "accessed": "31/10/2026",
+      "group": "TTXVN",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S18",
+      "title": "Tổng Bí thư Tô Lâm được Quốc hội tín nhiệm bầu giữ chức Chủ tịch nước nhiệm kỳ 2026-2031",
+      "organization": "Báo Quân đội nhân dân",
+      "date": "07/04/2026",
+      "url": "https://www.qdnd.vn/chinh-tri/tin-tuc/tong-bi-thu-to-lam-duoc-quoc-hoi-tin-nhiem-bau-giu-chuc-chu-tich-nuoc-nhiem-ky-2026-2031-1033827",
+      "accessed": "31/10/2026",
+      "group": "Báo Quân đội nhân dân",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S19",
+      "title": "Trung ương thống nhất tuyệt đối bầu đồng chí Tô Lâm giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIV",
+      "organization": "Đài Tiếng nói Việt Nam (VOV)",
+      "date": "Không xác định được từ trích đoạn",
+      "url": "https://vov.vn/chinh-tri/trung-uong-thong-nhat-tuyet-doi-bau-dong-chi-to-lam-giu-chuc-tong-bi-thu-ban-chap-hanh-trung-uong-dang-khoa-xiv-post1263552.vov",
+      "accessed": "31/10/2026",
+      "group": "Đài Tiếng nói Việt Nam",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    },
+    {
+      "id": "S20",
+      "title": "Tổng Bí thư Tô Lâm chủ trì Họp báo quốc tế thông báo kết quả Đại hội XIV của Đảng",
+      "organization": "Báo Điện tử Chính phủ",
+      "date": "Không xác định được từ trích đoạn",
+      "url": "https://baochinhphu.vn/tong-bi-thu-to-lam-chu-tri-hop-bao-quoc-te-thong-bao-ket-qua-dai-hoi-xiv-cua-dang-102260123172457959.htm",
+      "accessed": "31/10/2026",
+      "group": "Báo Điện tử Chính phủ",
+      "people": [
+        "to-lam"
+      ],
+      "eras": [
+        "e5"
+      ],
+      "status": "imported"
+    }
+  ],
+  "titles": [
+    {
+      "name": "Ban Chấp hành Trung ương lâm thời",
+      "period": "Đầu năm 1930 – 10/1930",
+      "kind": "pre",
+      "basis": [
+        {
+          "text": "Hội nghị thành lập Đảng (đầu năm 1930) do Nguyễn Ái Quốc chủ trì hợp nhất các tổ chức cộng sản thành Đảng Cộng sản Việt Nam.",
+          "sources": [
+            "S03",
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Trần Phú được giới thiệu tham gia hoạt động trong Ban Chấp ủy lâm thời (Ban Chấp hành Trung ương lâm thời) và được bổ sung vào Ban này tháng 7/1930.",
+          "sources": [
+            "S02",
+            "S05"
+          ],
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "Tổng Bí thư",
+      "period": "10/1930 – 10/1956",
+      "kind": "tbt",
+      "basis": [
+        {
+          "text": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương (10/1930) bầu Ban Chấp hành Trung ương chính thức, đồng chí Trần Phú làm Tổng Bí thư.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội I (3/1935) bầu Lê Hồng Phong làm Tổng Bí thư; sau đó Hà Huy Tập, Nguyễn Văn Cừ được cử làm Tổng Bí thư; tháng 5/1941 Hội nghị Ban Chấp hành Trung ương tại Pác Bó bầu Trường Chinh làm Tổng Bí thư.",
+          "sources": [
+            "S03"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội II (2/1951) bầu lại Trường Chinh làm Tổng Bí thư Ban Chấp hành Trung ương; ông giữ chức đến tháng 10/1956.",
+          "sources": [
+            "S03",
+            "S02"
+          ],
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "Quyền Tổng Bí thư",
+      "period": "1940 – 5/1941",
+      "kind": "qtbt",
+      "basis": [
+        {
+          "text": "Năm 1940, Hội nghị Trung ương 7 bầu Trường Chinh vào Ban Chấp hành Trung ương và cử làm Quyền Tổng Bí thư; năm 1941, Hội nghị lần thứ 8 bầu ông làm Tổng Bí thư.",
+          "sources": [
+            "S02"
+          ],
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "Chủ tịch Ban Chấp hành Trung ương Đảng (Chủ tịch Đảng)",
+      "period": "2/1951 – 9/1969",
+      "kind": "ctd",
+      "basis": [
+        {
+          "text": "Đại hội II (2/1951) bầu Hồ Chí Minh giữ chức Chủ tịch Đảng, tức Chủ tịch Ban Chấp hành Trung ương Đảng.",
+          "sources": [
+            "S03",
+            "S04",
+            "S07"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội III (9/1960) bầu lại Hồ Chí Minh làm Chủ tịch Đảng.",
+          "sources": [
+            "S03",
+            "S07",
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hệ thống Tư liệu – Văn kiện Đảng ghi Chủ tịch Hồ Chí Minh giữ chức Chủ tịch Đảng từ 02/1951 đến 9/1969.",
+          "sources": [
+            "S01"
+          ],
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "Tổng Bí thư (do Chủ tịch Đảng kiêm nhiệm)",
+      "period": "10/1956 – 9/1960",
+      "kind": "tbtk",
+      "basis": [
+        {
+          "text": "Tháng 10/1956, Hội nghị Trung ương mở rộng lần thứ X (khóa II) bầu Chủ tịch Hồ Chí Minh làm Chủ tịch Đảng, kiêm Tổng Bí thư.",
+          "sources": [
+            "S04"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Hệ thống Tư liệu – Văn kiện Đảng ghi Chủ tịch Hồ Chí Minh là Tổng Bí thư của Đảng từ 10/1956 đến 9/1960.",
+          "sources": [
+            "S01"
+          ],
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "Bí thư thứ nhất Ban Chấp hành Trung ương",
+      "period": "9/1960 – 12/1976",
+      "kind": "bttn",
+      "basis": [
+        {
+          "text": "Đại hội III (9/1960) bầu Lê Duẩn làm Bí thư thứ nhất Ban Chấp hành Trung ương Đảng.",
+          "sources": [
+            "S03",
+            "S07",
+            "S02",
+            "S12"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Đại hội IV (12/1976) đặt lại chức vụ Tổng Bí thư thay chức Bí thư thứ nhất.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "Tổng Bí thư Ban Chấp hành Trung ương",
+      "period": "12/1976 – nay",
+      "kind": "tbt",
+      "basis": [
+        {
+          "text": "Đại hội IV (12/1976) bổ sung Điều lệ Đảng, đặt lại chức vụ Tổng Bí thư thay chức Bí thư thứ nhất và quy định nhiệm kỳ của Ban Chấp hành Trung ương là 5 năm.",
+          "sources": [
+            "S03",
+            "S07"
+          ],
+          "date": ""
+        },
+        {
+          "text": "Từ Đại hội XI, các nguồn ghi rõ Tổng Bí thư được bầu tại Hội nghị lần thứ nhất của Ban Chấp hành Trung ương khóa mới; tại Đại hội XIV, Hội nghị lần thứ nhất (23/1/2026) bầu đồng chí Tô Lâm.",
+          "sources": [
+            "S03",
+            "S08"
+          ],
+          "date": ""
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "topic": "Thời điểm chuyển giao chức Tổng Bí thư từ Lê Hồng Phong sang Hà Huy Tập",
+      "people": [
+        "le-hong-phong",
+        "ha-huy-tap"
+      ],
+      "variants": [
+        {
+          "text": "Tháng 7/1936",
+          "sources": [
+            "S02",
+            "S03"
+          ]
+        },
+        {
+          "text": "Tháng 10/1936",
+          "sources": [
+            "S01"
+          ]
+        }
+      ],
+      "handling": "Hiển thị cả hai cách ghi; trục thời gian tô sọc vùng 7/1936–10/1936."
+    },
+    {
+      "topic": "Thời gian Hội nghị thành lập Đảng",
+      "people": [
+        "ho-chi-minh"
+      ],
+      "variants": [
+        {
+          "text": "Từ 6/1 đến đầu tháng 2/1930 (mục Các kỳ Đại hội trên daihoidang.vn)",
+          "sources": [
+            "S03"
+          ]
+        },
+        {
+          "text": "Từ ngày 3 đến 7/2/1930 (hồ sơ Hồ Chí Minh trên daihoidang.vn)",
+          "sources": [
+            "S04"
+          ]
+        }
+      ],
+      "handling": "Hiển thị 'đầu năm 1930' kèm hai cách ghi chi tiết."
+    },
+    {
+      "topic": "Ngày bắt đầu Đại hội XI",
+      "people": [
+        "nguyen-phu-trong"
+      ],
+      "variants": [
+        {
+          "text": "12/1/2011",
+          "sources": [
+            "S03"
+          ]
+        },
+        {
+          "text": "11/1/2011",
+          "sources": [
+            "S07"
+          ]
+        }
+      ],
+      "handling": "Hiển thị theo daihoidang.vn kèm ghi chú cách ghi của VietnamPlus."
+    },
+    {
+      "topic": "Năm đồng chí Lê Duẩn giữ chức Bí thư Xứ ủy Trung Kỳ",
+      "people": [
+        "le-duan"
+      ],
+      "variants": [
+        {
+          "text": "Năm 1937",
+          "sources": [
+            "S02"
+          ]
+        },
+        {
+          "text": "Năm 1938",
+          "sources": [
+            "S12"
+          ]
+        }
+      ],
+      "handling": "Hiển thị cả hai năm."
+    },
+    {
+      "topic": "Chức danh của đồng chí Lê Duẩn giai đoạn 9/1960–12/1976",
+      "people": [
+        "le-duan"
+      ],
+      "variants": [
+        {
+          "text": "Nhãn danh mục: Tổng Bí thư từ 9/1960 đến 7/1986",
+          "sources": [
+            "S01"
+          ]
+        },
+        {
+          "text": "Bí thư thứ nhất từ Đại hội III",
+          "sources": [
+            "S12",
+            "S02",
+            "S03",
+            "S07"
+          ]
+        }
+      ],
+      "handling": "Dùng chức danh chính xác Bí thư thứ nhất cho 1960–1976, ghi chú cách ghi gộp của danh mục."
+    },
+    {
+      "topic": "Mốc 1957–1958 trong tiểu sử đồng chí Lê Duẩn",
+      "people": [
+        "le-duan"
+      ],
+      "variants": [
+        {
+          "text": "Cuối năm 1957: Trung ương cử lãnh đạo công việc chung của Đảng bên cạnh Hồ Chủ tịch",
+          "sources": [
+            "S02"
+          ]
+        },
+        {
+          "text": "Năm 1958: Trung ương cử vào Ban Bí thư và chủ trì công việc của Ban Bí thư",
+          "sources": [
+            "S12"
+          ]
+        }
+      ],
+      "handling": "Hiển thị cả hai mô tả, không gộp."
+    },
+    {
+      "topic": "Cương vị năm 1939 của đồng chí Lê Duẩn",
+      "people": [
+        "le-duan"
+      ],
+      "variants": [
+        {
+          "text": "Năm 1939: được cử vào Ban Thường vụ Trung ương",
+          "sources": [
+            "S02"
+          ]
+        },
+        {
+          "text": "Năm 1939: được cử làm Ủy viên Trung ương Đảng",
+          "sources": [
+            "S12"
+          ]
+        }
+      ],
+      "handling": "Hiển thị cả hai mô tả, không gộp."
+    },
+    {
+      "topic": "Tên địa danh nơi họp Đại hội II",
+      "people": [
+        "ho-chi-minh",
+        "truong-chinh"
+      ],
+      "variants": [
+        {
+          "text": "Xã Vinh Quang",
+          "sources": [
+            "S03"
+          ]
+        },
+        {
+          "text": "Xã Vĩnh Quang",
+          "sources": [
+            "S07"
+          ]
+        }
+      ],
+      "handling": "Hiển thị theo daihoidang.vn kèm cách ghi của VietnamPlus."
+    },
+    {
+      "topic": "Cương vị đồng chí Lê Khả Phiêu được bầu tháng 6/1992",
+      "people": [
+        "le-kha-phieu"
+      ],
+      "variants": [
+        {
+          "text": "Tại Hội nghị Trung ương 3 khóa VII: được bầu vào Ban Bí thư, phân công Thường trực Ban Bí thư; đến 1/1994 mới được bầu vào Bộ Chính trị, đến 6/1996 làm Thường trực Bộ Chính trị",
+          "sources": [
+            "S02"
+          ]
+        },
+        {
+          "text": "Tháng 6/1992, tại Hội nghị Trung ương 3 khóa VII: được bầu vào Ban Chấp hành Trung ương, Ủy viên Bộ Chính trị, Ủy viên Thường vụ Bộ Chính trị, Thường trực Bộ Chính trị (đối chiếu qua trích đoạn kết quả tìm kiếm)",
+          "sources": [
+            "S14"
+          ]
+        }
+      ],
+      "handling": "Hiển thị cả hai cách ghi; dòng thời gian theo Báo Nhân Dân (đối chiếu toàn văn), kèm ghi chú khác biệt."
+    },
+    {
+      "topic": "Nhãn ‘Tổng bí thư’ trong khối Đại hội II trên daihoidang.vn",
+      "people": [
+        "ho-chi-minh",
+        "nguyen-van-cu"
+      ],
+      "variants": [
+        {
+          "text": "Khối Đại hội II ghi: ‘Tổng bí thư Hồ Chí Minh Tháng 3/1938 tới tháng 1/1940’",
+          "sources": [
+            "S03"
+          ]
+        },
+        {
+          "text": "Tổng Bí thư từ 3/1938 đến 1/1940 là đồng chí Nguyễn Văn Cừ (cũng là cách ghi tại mục Đại hội I của cùng trang)",
+          "sources": [
+            "S01",
+            "S02",
+            "S03"
+          ]
+        }
+      ],
+      "handling": "Website không sử dụng dòng nhãn này; nội dung chức danh theo các nguồn còn lại."
+    },
+    {
+      "topic": "Cách ghi quê quán đồng chí Tô Lâm",
+      "people": [
+        "to-lam"
+      ],
+      "variants": [
+        {
+          "text": "xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên (công bố 1/2025)",
+          "sources": [
+            "S02"
+          ]
+        },
+        {
+          "text": "Xã Nghĩa Trụ, tỉnh Hưng Yên",
+          "sources": [
+            "S06"
+          ]
+        }
+      ],
+      "handling": "Hiển thị cả hai cách ghi."
+    }
+  ]
+}

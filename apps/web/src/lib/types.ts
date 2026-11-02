@@ -1,0 +1,9 @@
+export type Fact = { text: string; sources: string[]; date?: string; difference?: { label: string; variants: { t: string; s: string[] }[] } };
+export type Term = { kind: string; title: string; start: string; end: string; startYear: number; endYear: number; congress: string[]; sources: string[]; appointment: string; difference?: Fact['difference'] };
+export type Leader = { slug: string; name: string; initials: string; order: number; summary: string; fields: Record<string, Fact | undefined>; aliases: Fact[]; terms: Term[]; timeline: Fact[]; events: Fact[]; positions: Fact[]; context: { title: string; events: Fact[] }; eras: string[]; sources: string[]; documents: string[] };
+export type Era = { id: string; label: string; title: string; events: Fact[] };
+export type Congress = { id: string; order: number; ordinal: string; name: string; year: number; time: Fact; place: Fact; theme: Fact | null; delegates: Fact | null; content: Fact[]; leaders: string[]; documents: string[] };
+export type Document = { id: string; name: string; date: string; issuer: string; description: Fact; era?: string; people: string[]; url: string; sources: string[] };
+export type Source = { id: string; title: string; organization: string; date: string; url: string; accessed: string; group: string; people: string[]; eras: string[]; status: string };
+export type Catalog = { meta: { title: string; period: string; importedFrom: string; referenceUpdated: string; editorialNote: string }; leaders: Leader[]; eras: Era[]; congresses: Congress[]; documents: Document[]; sources: Source[]; titles: { name: string; period: string; kind: string; basis: Fact[] }[]; discrepancies: { topic: string; people: string[]; variants: { text: string; sources: string[] }[]; handling: string }[] };
+export type SearchResult = { type: string; title: string; description: string; href: string };

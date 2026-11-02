@@ -1,0 +1,19 @@
+{
+  "name": "@dau-an/api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.mjs",
+    "start": "node src/server.mjs",
+    "db:setup": "node src/setup.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "dotenv": "^17.2.3",
+    "helmet": "^8.1.0",
+    "cors": "^2.8.5"
+  }
+}

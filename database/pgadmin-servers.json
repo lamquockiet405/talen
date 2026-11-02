@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Dau an lich su (local)",
+      "Group": "Projects",
+      "Host": "127.0.0.1",
+      "Port": 55432,
+      "MaintenanceDB": "museum",
+      "Username": "museum",
+      "SSLMode": "prefer"
+    }
+  }
+}

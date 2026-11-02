@@ -1,0 +1,1 @@
+export default function Loading() { return <main className="standalone" aria-busy="true"><span className="eyebrow">DẤU ẤN LỊCH SỬ</span><div className="loading-rule" /><h1>Đang mở kho tư liệu…</h1></main>; }

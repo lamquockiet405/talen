@@ -1,0 +1,18 @@
+{
+  "name": "dau-an-lich-su",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["apps/web", "apps/api"],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build --workspace apps/web",
+    "start": "node scripts/dev.mjs --production",
+    "db:setup": "npm run db:setup --workspace apps/api",
+    "db:local": "node scripts/local-postgres.mjs",
+    "db:stop": "node scripts/local-postgres.mjs --stop",
+    "test": "npm run test --workspace apps/api",
+    "typecheck": "npm run typecheck --workspace apps/web",
+    "test:smoke": "node scripts/smoke.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
